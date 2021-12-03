@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: farid
+Build-Jdk: 16.0.2
+Main-Class: dev.harritest.main.Main
+Created-By: Maven Integration for Eclipse
+

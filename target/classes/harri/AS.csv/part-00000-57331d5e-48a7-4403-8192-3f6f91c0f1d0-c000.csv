@@ -1,0 +1,1256 @@
+country_name,player_name,country_code,age,continent,Value,fifa_score,Club,Salary,salary_n,value_n
+Afghanistan,N. Husin,AF,20,AS,€60K,Fifa Score,Crystal Palace,€4K,4000,60000
+Afghanistan,S. Mukhammad,AF,27,AS,€180K,Fifa Score,AFC Eskilstuna,€1K,1000,180000
+Afghanistan,M. Kouhyar,AF,19,AS,€450K,Fifa Score,Walsall,€1K,1000,450000
+Armenia,M. Agaronyan,AM,18,AS,€190K,Fifa Score,FC SKA-Energiya Khabarovsk,€2K,2000,190000
+Armenia,V. Haroyan,AM,24,AS,€240K,Fifa Score,FC Ural,€4K,4000,240000
+Armenia,G. Agbaljan,AM,20,AS,€475K,Fifa Score,Heracles Almelo,€2K,2000,475000
+Armenia,S. Adamyan,AM,24,AS,€500K,Fifa Score,SSV Jahn Regensburg,€2K,2000,500000
+Armenia,D. Arshakyan,AM,22,AS,€525K,Fifa Score,Chicago Fire Soccer Club,€2K,2000,525000
+Armenia,G. Andonian,AM,22,AS,€675K,Fifa Score,Dijon FCO,€6K,6000,675000
+Armenia,R. Koryan,AM,29,AS,€450K,Fifa Score,FC SKA-Energiya Khabarovsk,€7K,7000,450000
+Armenia,M. Guevgeozián,AM,31,AS,€575K,Fifa Score,Newell's Old Boys,€4K,4000,575000
+Armenia,Y. Movsisyan,AM,29,AS,€1.8M,Fifa Score,Real Salt Lake,€7K,7000,1.8000000
+Armenia,E. Manucharyan,AM,30,AS,€1.7M,Fifa Score,FC Ural,€23K,23000,1.7000000
+Armenia,G. Ghazaryan,AM,29,AS,€2.3M,Fifa Score,CS Marítimo,€8K,8000,2.3000000
+Armenia,Marcos Pizzelli,AM,32,AS,€1.8M,Fifa Score,Al Shabab,€23K,23000,1.8000000
+Armenia,A. Özbiliz,AM,27,AS,€4.2M,Fifa Score,Beşiktaş JK,€43K,43000,4.2000000
+Armenia,H. Mkhitaryan,AM,28,AS,€39M,Fifa Score,Manchester United,€195K,195000,39000000
+Azerbaijan,R. Dadashov,AZ,18,AS,€325K,Fifa Score,Eintracht Frankfurt,€3K,3000,325000
+Azerbaijan,A. Guliev,AZ,21,AS,€240K,Fifa Score,FC Ural,€4K,4000,240000
+Azerbaijan,E. Nouri,AZ,31,AS,€240K,Fifa Score,Kalmar FF,€1K,1000,240000
+Azerbaijan,T. Erat,AZ,25,AS,€650K,Fifa Score,MSV Duisburg,€2K,2000,650000
+Azerbaijan,Eddy,AZ,24,AS,€750K,Fifa Score,Gimnàstic de Tarragona,€3K,3000,750000
+Azerbaijan,D. Nazarov,AZ,27,AS,€950K,Fifa Score,FC Erzgebirge Aue,€6K,6000,950000
+Azerbaijan,D. Yılmaz,AZ,29,AS,€1.8M,Fifa Score,Bursaspor,€15K,15000,1.8000000
+Brunei Darussalam,F. Bolkiah,BN,19,AS,€190K,Fifa Score,Leicester City,€5K,5000,190000
+Cyprus,A. Georgiou,CY,17,AS,€70K,Fifa Score,Stevenage,€1K,1000,70000
+Cyprus,C. Shelis,CY,17,AS,€110K,Fifa Score,Shrewsbury,€1K,1000,110000
+Cyprus,A. Gogić,CY,23,AS,€130K,Fifa Score,Hamilton Academical FC,€1K,1000,130000
+Cyprus,A. Georgiou,CY,20,AS,€280K,Fifa Score,Tottenham Hotspur,€8K,8000,280000
+Cyprus,H. Kyprianou,CY,20,AS,€325K,Fifa Score,Southend United,€1K,1000,325000
+Cyprus,G. Kastanos,CY,19,AS,€1.2M,Fifa Score,SV Zulte-Waregem,€13K,13000,1.2000000
+Cyprus,C. Kyriakou,CY,22,AS,€975K,Fifa Score,Estoril Praia,€5K,5000,975000
+Cyprus,J. Demetriou,CY,29,AS,€575K,Fifa Score,Southend United,€7K,7000,575000
+Cyprus,V. Sielis,CY,27,AS,€650K,Fifa Score,Gangwon FC,€4K,4000,650000
+Cyprus,P. Sotiriou,CY,24,AS,€1.2M,Fifa Score,FC København,€12K,12000,1.2000000
+Cyprus,K. Laifis,CY,24,AS,€4.5M,Fifa Score,Standard de Liège,€13K,13000,4.5000000
+Georgia,G. Jobava,GE,21,AS,€190K,Fifa Score,AJ Auxerre,€1K,1000,190000
+Georgia,M. Tsintsadze,GE,22,AS,€290K,Fifa Score,Pogoń Szczecin,€1K,1000,290000
+Georgia,L. Zarandia,GE,21,AS,€325K,Fifa Score,Arka Gdynia,€1K,1000,325000
+Georgia,S. Lobjanidze,GE,22,AS,€350K,Fifa Score,Randers FC,€3K,3000,350000
+Georgia,R. Gavtadze,GE,21,AS,€400K,Fifa Score,FC Ural,€5K,5000,400000
+Georgia,J. Tabidze,GE,21,AS,€450K,Fifa Score,FC Ufa,€4K,4000,450000
+Georgia,N. Kacharava,GE,23,AS,€525K,Fifa Score,Korona Kielce,€6K,6000,525000
+Georgia,I. Shekiladze,GE,24,AS,€500K,Fifa Score,La Spezia,€1K,1000,500000
+Georgia,G. Merebashvili,GE,30,AS,€350K,Fifa Score,Wisła Płock,€2K,2000,350000
+Georgia,M. Vatsadze,GE,28,AS,€375K,Fifa Score,Silkeborg IF,€3K,3000,375000
+Georgia,D. Skhirtladze,GE,24,AS,€525K,Fifa Score,Silkeborg IF,€2K,2000,525000
+Georgia,G. Navalovski,GE,31,AS,€300K,Fifa Score,FC SKA-Energiya Khabarovsk,€6K,6000,300000
+Georgia,J. Lipartia,GE,29,AS,€450K,Fifa Score,FC Anzhi Makhachkala,€7K,7000,450000
+Georgia,G. Chakvetadze,GE,17,AS,€900K,Fifa Score,KAA Gent,€3K,3000,900000
+Georgia,L. Hufnagel,GE,23,AS,€875K,Fifa Score,1. FC Nürnberg,€6K,6000,875000
+Georgia,O. Kakabadze,GE,22,AS,€950K,Fifa Score,Gimnàstic de Tarragona,€5K,5000,950000
+Georgia,G. Papunashvili,GE,21,AS,€1.2M,Fifa Score,Real Zaragoza,€6K,6000,1.2000000
+Georgia,L. Dvali,GE,22,AS,€1.1M,Fifa Score,Pogoń Szczecin,€4K,4000,1.1000000
+Georgia,D. Khocholava,GE,24,AS,€1M,Fifa Score,Shakhtar Donetsk,€1K,1000,1000000
+Georgia,G. Grigalava,GE,27,AS,€1.7M,Fifa Score,Arsenal Tula,€18K,18000,1.7000000
+Georgia,G. Chanturia,GE,24,AS,€2.4M,Fifa Score,FC Ural,€20K,20000,2.4000000
+Georgia,G. Kvilitaia,GE,23,AS,€2.5M,Fifa Score,SK Rapid Wien,€16K,16000,2.5000000
+Georgia,G. Aburjania,GE,22,AS,€3.6M,Fifa Score,Sevilla Atlético,€4K,4000,3.6000000
+Georgia,T. Okriashvili,GE,25,AS,€3.1M,Fifa Score,FC Krasnodar,€26K,26000,3.1000000
+Georgia,S. Kverkvelia,GE,25,AS,€4.3M,Fifa Score,Lokomotiv Moscow,€33K,33000,4.3000000
+Georgia,G. Loria,GE,31,AS,€2.4M,Fifa Score,FC Anzhi Makhachkala,€17K,17000,2.4000000
+Georgia,G. Makaridze,GE,27,AS,€2.7M,Fifa Score,Moreirense FC,€6K,6000,2.7000000
+Georgia,L. Mchedlidze,GE,27,AS,€6.5M,Fifa Score,Empoli,€5K,5000,6.5000000
+Georgia,J. Ananidze,GE,24,AS,€8.5M,Fifa Score,Spartak Moscow,€45K,45000,8.5000000
+Georgia,V. Qazaishvili,GE,24,AS,€8.5M,Fifa Score,San Jose Earthquakes,€8K,8000,8.5000000
+Georgia,G. Kashia,GE,29,AS,€6M,Fifa Score,Vitesse,€15K,15000,6000000
+Hong Kong,Dai Wai-Tsun,HK,17,AS,€130K,Fifa Score,Bury,€1K,1000,130000
+India,S. Passi,IN,22,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. Singh,IN,24,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,C. Singh,IN,20,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,F. Cardozo,IN,29,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,G. Singh,IN,21,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,D. Lalhlimpuia,IN,19,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,K. Singh,IN,31,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. Edathodika,IN,30,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,S. Singh,IN,25,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,M. Rafique,IN,24,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,N. Das,IN,23,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,R. Borges,IN,25,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. Mondal,IN,27,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,H. Narzary,IN,23,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. Fernandes,IN,28,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. George,IN,25,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,A. Khongjee,IN,29,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,B. Jairu,IN,35,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,J. Singh,IN,25,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,K. Pereira,IN,29,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,G. Singh Sandhu,IN,25,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,J. Lalpekhlua,IN,26,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,P. Kotal,IN,23,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,E. Lyngdoh,IN,30,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,U. Singh,IN,21,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,R. Singh,IN,27,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,S. Jhingan,IN,23,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,S. Paul,IN,30,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,L. Ralte,IN,24,AS,€0,Fifa Score,"",€0.00,0.00,0
+India,S. Chhetri,IN,32,AS,€0,Fifa Score,"",€0.00,0.00,0
+Iran,A. Samizadeh,IR,18,AS,€220K,Fifa Score,Kilmarnock,€1K,1000,220000
+Iran,R. Shekari,IR,19,AS,€650K,Fifa Score,Rubin Kazan,€4K,4000,650000
+Iran,A. Abedzadeh,IR,24,AS,€290K,Fifa Score,CS Marítimo,€1K,1000,290000
+Iran,K. Shafiei,IR,30,AS,€270K,Fifa Score,FC Seoul,€2K,2000,270000
+Iran,D. Davari,IR,29,AS,€300K,Fifa Score,MSV Duisburg,€2K,2000,300000
+Iran,S. Ezatolahi,IR,20,AS,€1.2M,Fifa Score,Amkar Perm,€7K,7000,1.2000000
+Iran,P. Sadeghian,IR,25,AS,€1.1M,Fifa Score,Osmanlıspor,€11K,11000,1.1000000
+Iran,S. Beitashour,IR,30,AS,€750K,Fifa Score,Toronto FC,€5K,5000,750000
+Iran,K. Rezaei,IR,25,AS,€2.3M,Fifa Score,Sporting Charleroi,€12K,12000,2.3000000
+Iran,R. Rezaeian,IR,27,AS,€1.6M,Fifa Score,KV Oostende,€11K,11000,1.6000000
+Iran,A. Haghighi,IR,29,AS,€1.6M,Fifa Score,AFC Eskilstuna,€3K,3000,1.6000000
+Iran,S. Ghoddos,IR,23,AS,€3.2M,Fifa Score,Östersunds FK,€4K,4000,3.2000000
+Iran,R. Ghoochannejhad,IR,29,AS,€3.1M,Fifa Score,SC Heerenveen,€9K,9000,3.1000000
+Iran,K. Ansarifard,IR,27,AS,€4.7M,Fifa Score,Olympiakos CFP,€1K,1000,4.7000000
+Iran,M. Mohammadi,IR,23,AS,€4.7M,Fifa Score,Terek Grozny,€25K,25000,4.7000000
+Iran,A. Jahanbakhsh,IR,23,AS,€8.5M,Fifa Score,AZ Alkmaar,€11K,11000,8.5000000
+Iran,S. Azmoun,IR,22,AS,€13.5M,Fifa Score,Rubin Kazan,€46K,46000,13.5000000
+Iraq,A. Mhawi,IQ,21,AS,€425K,Fifa Score,Al Batin,€2K,2000,425000
+Iraq,A. Abbas,IQ,30,AS,€325K,Fifa Score,Wellington Phoenix,€2K,2000,325000
+Iraq,A. Khalaf,IQ,25,AS,€575K,Fifa Score,Ettifaq FC,€4K,4000,575000
+Iraq,Y. Kasim,IQ,26,AS,€875K,Fifa Score,Northampton Town,€6K,6000,875000
+Iraq,S. Luaibi,IQ,25,AS,€950K,Fifa Score,Al Shabab,€17K,17000,950000
+Iraq,A. Yasin,IQ,26,AS,€1.1M,Fifa Score,BK Häcken,€7K,7000,1.1000000
+Iraq,B. Nouri,IQ,30,AS,€975K,Fifa Score,Östersunds FK,€4K,4000,975000
+Iraq,A. Adnan,IQ,23,AS,€4.6M,Fifa Score,Udinese,€20K,20000,4.6000000
+Iraq,J. Meram,IQ,28,AS,€5.5M,Fifa Score,Columbus Crew SC,€10K,10000,5.5000000
+Israel,B. Reichert,IL,23,AS,€600K,Fifa Score,SV Zulte-Waregem,€4K,4000,600000
+Israel,O. Marciano,IL,27,AS,€450K,Fifa Score,Hibernian,€2K,2000,450000
+Israel,O. Altman,IL,23,AS,€1.4M,Fifa Score,Panathinaikos FC,€1K,1000,1.4000000
+Israel,T. Tawatha,IL,25,AS,€1.1M,Fifa Score,Eintracht Frankfurt,€14K,14000,1.1000000
+Israel,N. Bitton,IL,25,AS,€1.8M,Fifa Score,Celtic,€30K,30000,1.8000000
+Israel,T. Ben Haim,IL,27,AS,€1.9M,Fifa Score,Sparta Praha,€1K,1000,1.9000000
+Israel,T. Hemed,IL,30,AS,€3M,Fifa Score,Brighton & Hove Albion,€34K,34000,3000000
+Israel,B. Kayal,IL,29,AS,€3.8M,Fifa Score,Brighton & Hove Albion,€46K,46000,3.8000000
+Israel,A. Cohen,IL,28,AS,€5.5M,Fifa Score,FC Ingolstadt 04,€22K,22000,5.5000000
+Israel,L. Refaelov,IL,31,AS,€6M,Fifa Score,Club Brugge KV,€24K,24000,6000000
+Israel,B. Natcho,IL,29,AS,€6M,Fifa Score,CSKA Moscow,€46K,46000,6000000
+Israel,M. Dabbur,IL,25,AS,€10M,Fifa Score,FC Red Bull Salzburg,€38K,38000,10000000
+Japan,K. Fujikawa,JP,18,AS,€60K,Fifa Score,Júbilo Iwata,€1K,1000,60000
+Japan,Y. Uchimura,JP,32,AS,€20K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,20000
+Japan,T. Matsumoto,JP,18,AS,€60K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,60000
+Japan,H. Tanaka,JP,34,AS,€10K,Fifa Score,Vissel Kobe,€1K,1000,10000
+Japan,H. Mae,JP,21,AS,€30K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,30000
+Japan,S. Uehara,JP,30,AS,€20K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,20000
+Japan,G. Sakai,JP,21,AS,€50K,Fifa Score,Albirex Niigata,€1K,1000,50000
+Japan,S. Yamaguchi,JP,21,AS,€40K,Fifa Score,Vissel Kobe,€1K,1000,40000
+Japan,S. Yomesaka,JP,20,AS,€60K,Fifa Score,Gamba Osaka,€1K,1000,60000
+Japan,A. Kurokawa,JP,19,AS,€60K,Fifa Score,Omiya Ardija,€1K,1000,60000
+Japan,T. Uchida,JP,19,AS,€60K,Fifa Score,F.C. Tokyo,€1K,1000,60000
+Japan,D. Maekawa,JP,22,AS,€30K,Fifa Score,Vissel Kobe,€1K,1000,30000
+Japan,A. Kawazura,JP,23,AS,€30K,Fifa Score,Omiya Ardija,€1K,1000,30000
+Japan,K. Tokushige,JP,33,AS,€20K,Fifa Score,Vissel Kobe,€1K,1000,20000
+Japan,J. Higashi,JP,19,AS,€70K,Fifa Score,Vissel Kobe,€1K,1000,70000
+Japan,D. Akiyama,JP,22,AS,€50K,Fifa Score,Cerezo Osaka,€1K,1000,50000
+Japan,S. Mitsuzaki,JP,19,AS,€70K,Fifa Score,Shimizu S-Pulse,€1K,1000,70000
+Japan,T. Harigaya,JP,18,AS,€80K,Fifa Score,Júbilo Iwata,€1K,1000,80000
+Japan,R. Meshino,JP,19,AS,€70K,Fifa Score,Gamba Osaka,€1K,1000,70000
+Japan,R. Yamada,JP,19,AS,€70K,Fifa Score,Omiya Ardija,€1K,1000,70000
+Japan,K. Shiihashi,JP,20,AS,€40K,Fifa Score,Vegalta Sendai,€1K,1000,40000
+Japan,S. Tsuji,JP,19,AS,€70K,Fifa Score,Sagan Tosu,€1K,1000,70000
+Japan,Y. Nishibe,JP,36,AS,€10K,Fifa Score,Shimizu S-Pulse,€1K,1000,10000
+Japan,N. Senoo,JP,20,AS,€90K,Fifa Score,Gamba Osaka,€1K,1000,90000
+Japan,K. Ishii,JP,31,AS,€40K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,40000
+Japan,R. Kawai,JP,38,AS,€10K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,10000
+Japan,K. Kubota,JP,20,AS,€90K,Fifa Score,Kashima Antlers,€1K,1000,90000
+Japan,G. Harada,JP,19,AS,€90K,Fifa Score,Yokohama F. Marinos,€1K,1000,90000
+Japan,I. Homma,JP,36,AS,€10K,Fifa Score,Albirex Niigata,€1K,1000,10000
+Japan,G. Kawanami,JP,26,AS,€50K,Fifa Score,Albirex Niigata,€1K,1000,50000
+Japan,A. Suzuki,JP,30,AS,€30K,Fifa Score,Yokohama F. Marinos,€1K,1000,30000
+Japan,N. Hatta,JP,31,AS,€40K,Fifa Score,Júbilo Iwata,€1K,1000,40000
+Japan,D. Matsuzaka,JP,19,AS,€100K,Fifa Score,Southend United,€1K,1000,100000
+Japan,T. Takagiwa,JP,22,AS,€70K,Fifa Score,Shimizu S-Pulse,€1K,1000,70000
+Japan,S. Hirao,JP,21,AS,€100K,Fifa Score,Gamba Osaka,€1K,1000,100000
+Japan,Y. Horigome,JP,22,AS,€70K,Fifa Score,Albirex Niigata,€1K,1000,70000
+Japan,G. Hayama,JP,24,AS,€80K,Fifa Score,Albirex Niigata,€1K,1000,80000
+Japan,M. Matsumoto,JP,22,AS,€90K,Fifa Score,Júbilo Iwata,€1K,1000,90000
+Japan,R. Miura,JP,25,AS,€50K,Fifa Score,Júbilo Iwata,€1K,1000,50000
+Japan,K. Yoshio,JP,19,AS,€80K,Fifa Score,Yokohama F. Marinos,€1K,1000,80000
+Japan,K. Takayama,JP,20,AS,€90K,Fifa Score,Omiya Ardija,€1K,1000,90000
+Japan,Y. Suzuki,JP,18,AS,€120K,Fifa Score,F.C. Tokyo,€1K,1000,120000
+Japan,K. Yoshimaru,JP,21,AS,€60K,Fifa Score,Vissel Kobe,€1K,1000,60000
+Japan,M. Kojima,JP,19,AS,€90K,Fifa Score,Vegalta Sendai,€1K,1000,90000
+Japan,S. Fujitani,JP,19,AS,€100K,Fifa Score,Vissel Kobe,€1K,1000,100000
+Japan,M. Nishimoto,JP,21,AS,€110K,Fifa Score,Cerezo Osaka,€1K,1000,110000
+Japan,M. Sakamoto,JP,21,AS,€120K,Fifa Score,Cerezo Osaka,€1K,1000,120000
+Japan,A. Takagi,JP,19,AS,€150K,Fifa Score,Gamba Osaka,€1K,1000,150000
+Japan,T. Hara,JP,18,AS,€140K,Fifa Score,Albirex Niigata,€1K,1000,140000
+Japan,A. Fantini,JP,19,AS,€120K,Fifa Score,Sagan Tosu,€1K,1000,120000
+Japan,W. Popp,JP,22,AS,€70K,Fifa Score,Kawasaki Frontale,€1K,1000,70000
+Japan,Y. Koide,JP,22,AS,€80K,Fifa Score,Ventforet Kofu,€1K,1000,80000
+Japan,K. Oyama,JP,22,AS,€100K,Fifa Score,Omiya Ardija,€1K,1000,100000
+Japan,R. Isomura,JP,26,AS,€70K,Fifa Score,Albirex Niigata,€1K,1000,70000
+Japan,N. Kawaguchi,JP,23,AS,€80K,Fifa Score,Albirex Niigata,€1K,1000,80000
+Japan,T. Oya,JP,30,AS,€50K,Fifa Score,Omiya Ardija,€1K,1000,50000
+Japan,K. Tanno,JP,31,AS,€50K,Fifa Score,Cerezo Osaka,€1K,1000,50000
+Japan,A. Fukumori,JP,24,AS,€100K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,100000
+Japan,Y. Tatsuta,JP,19,AS,€170K,Fifa Score,Shimizu S-Pulse,€1K,1000,170000
+Japan,H. Noda,JP,19,AS,€170K,Fifa Score,Gamba Osaka,€1K,1000,170000
+Japan,H. Fukushima,JP,24,AS,€90K,Fifa Score,Urawa Red Diamonds,€1K,1000,90000
+Japan,T. Tanaka,JP,19,AS,€190K,Fifa Score,Kashima Antlers,€1K,1000,190000
+Japan,N. Ishikawa,JP,36,AS,€30K,Fifa Score,F.C. Tokyo,€1K,1000,30000
+Japan,K. Kakoi,JP,26,AS,€70K,Fifa Score,Cerezo Osaka,€1K,1000,70000
+Japan,S. Naruoka,JP,33,AS,€50K,Fifa Score,Albirex Niigata,€1K,1000,50000
+Japan,R. Uehara,JP,20,AS,€190K,Fifa Score,Júbilo Iwata,€1K,1000,190000
+Japan,H. Takimoto,JP,20,AS,€160K,Fifa Score,Kashiwa Reysol,€1K,1000,160000
+Japan,D. Araki,JP,23,AS,€110K,Fifa Score,Júbilo Iwata,€1K,1000,110000
+Japan,H. Ishikawa,JP,18,AS,€120K,Fifa Score,Sagan Tosu,€1K,1000,120000
+Japan,N. Maeda,JP,22,AS,€120K,Fifa Score,Yokohama F. Marinos,€1K,1000,120000
+Japan,K. Wakasugi,JP,21,AS,€130K,Fifa Score,Ventforet Kofu,€1K,1000,130000
+Japan,S. Kanazawa,JP,33,AS,€40K,Fifa Score,Omiya Ardija,€1K,1000,40000
+Japan,Y. Nogami,JP,26,AS,€90K,Fifa Score,Sanfrecce Hiroshima,€2K,2000,90000
+Japan,K. Ishihara,JP,38,AS,€30K,Fifa Score,Ventforet Kofu,€1K,1000,30000
+Japan,T. Ominami,JP,19,AS,€170K,Fifa Score,Júbilo Iwata,€1K,1000,170000
+Japan,D. Ogawa,JP,25,AS,€90K,Fifa Score,Júbilo Iwata,€1K,1000,90000
+Japan,M. Okino,JP,20,AS,€200K,Fifa Score,Cerezo Osaka,€1K,1000,200000
+Japan,O. Iyoha,JP,19,AS,€180K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,180000
+Japan,M. Yamada,JP,22,AS,€110K,Fifa Score,F.C. Tokyo,€1K,1000,110000
+Japan,S. Takahashi,JP,25,AS,€100K,Fifa Score,Júbilo Iwata,€1K,1000,100000
+Japan,K. Oshima,JP,21,AS,€160K,Fifa Score,Kashiwa Reysol,€2K,2000,160000
+Japan,T. Koga,JP,18,AS,€130K,Fifa Score,Kashiwa Reysol,€1K,1000,130000
+Japan,Y. Uekusa,JP,34,AS,€40K,Fifa Score,Shimizu S-Pulse,€1K,1000,40000
+Japan,K. Ichimi,JP,19,AS,€200K,Fifa Score,Gamba Osaka,€1K,1000,200000
+Japan,K. Fukai,JP,22,AS,€110K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,110000
+Japan,J. Kanayama,JP,29,AS,€60K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,60000
+Japan,W. Sasaki,JP,20,AS,€150K,Fifa Score,F.C. Tokyo,€1K,1000,150000
+Japan,R. Watanabe,JP,20,AS,€200K,Fifa Score,FC Ingolstadt 04,€3K,3000,200000
+Japan,R. Takano,JP,22,AS,€90K,Fifa Score,Ventforet Kofu,€1K,1000,90000
+Japan,H. Nakabayashi,JP,31,AS,€50K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,50000
+Japan,K. Chinen,JP,22,AS,€130K,Fifa Score,Kawasaki Frontale,€1K,1000,130000
+Japan,S. Kawamata,JP,27,AS,€60K,Fifa Score,Kashima Antlers,€1K,1000,60000
+Japan,T. Nozawa,JP,35,AS,€40K,Fifa Score,Vegalta Sendai,€1K,1000,40000
+Japan,Y. Kato,JP,19,AS,€160K,Fifa Score,Omiya Ardija,€1K,1000,160000
+Japan,K. Okanishi,JP,26,AS,€80K,Fifa Score,Ventforet Kofu,€1K,1000,80000
+Japan,T. Muramatsu,JP,27,AS,€90K,Fifa Score,Shimizu S-Pulse,€1K,1000,90000
+Japan,T. Akahoshi,JP,33,AS,€50K,Fifa Score,Sagan Tosu,€1K,1000,50000
+Japan,T. Kishimoto,JP,19,AS,€220K,Fifa Score,Cerezo Osaka,€1K,1000,220000
+Japan,T. Fukumitsu,JP,25,AS,€110K,Fifa Score,Cerezo Osaka,€1K,1000,110000
+Japan,T. Iida,JP,22,AS,€120K,Fifa Score,Shimizu S-Pulse,€1K,1000,120000
+Japan,D. Suga,JP,18,AS,€220K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,220000
+Japan,S. Takahashi,JP,21,AS,€140K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,140000
+Japan,N. Sakai,JP,24,AS,€110K,Fifa Score,Albirex Niigata,€1K,1000,110000
+Japan,Y. Ito,JP,24,AS,€130K,Fifa Score,Albirex Niigata,€1K,1000,130000
+Japan,F. Hayakawa,JP,23,AS,€120K,Fifa Score,Albirex Niigata,€1K,1000,120000
+Japan,R. Suzuki,JP,23,AS,€100K,Fifa Score,Gamba Osaka,€1K,1000,100000
+Japan,Y. Horigome,JP,24,AS,€130K,Fifa Score,Ventforet Kofu,€1K,1000,130000
+Japan,S. Tanabe,JP,27,AS,€90K,Fifa Score,F.C. Tokyo,€2K,2000,90000
+Japan,K. Mori,JP,20,AS,€230K,Fifa Score,Ventforet Kofu,€1K,1000,230000
+Japan,T. Hashiguchi,JP,22,AS,€120K,Fifa Score,Kashiwa Reysol,€2K,2000,120000
+Japan,K. Fujimura,JP,23,AS,€140K,Fifa Score,Vegalta Sendai,€1K,1000,140000
+Japan,S. Kumagai,JP,20,AS,€180K,Fifa Score,Ventforet Kofu,€1K,1000,180000
+Japan,K. Ishikawa,JP,24,AS,€100K,Fifa Score,Vegalta Sendai,€1K,1000,100000
+Japan,Y. Matsushita,JP,23,AS,€200K,Fifa Score,Vissel Kobe,€1K,1000,200000
+Japan,T. Hiraoka,JP,21,AS,€200K,Fifa Score,F.C. Tokyo,€1K,1000,200000
+Japan,T. Yanagi,JP,19,AS,€240K,Fifa Score,F.C. Tokyo,€1K,1000,240000
+Japan,T. Shimakawa,JP,27,AS,€120K,Fifa Score,Ventforet Kofu,€1K,1000,120000
+Japan,K. Ogawa,JP,19,AS,€280K,Fifa Score,Júbilo Iwata,€1K,1000,280000
+Japan,S. Tomisawa,JP,34,AS,€40K,Fifa Score,Albirex Niigata,€1K,1000,40000
+Japan,S. Sasaki,JP,27,AS,€110K,Fifa Score,Sanfrecce Hiroshima,€2K,2000,110000
+Japan,Y. Kurihara,JP,33,AS,€50K,Fifa Score,Yokohama F. Marinos,€1K,1000,50000
+Japan,R. Okui,JP,27,AS,€100K,Fifa Score,Omiya Ardija,€1K,1000,100000
+Japan,D. Watabe,JP,28,AS,€100K,Fifa Score,Omiya Ardija,€1K,1000,100000
+Japan,K. Matsui,JP,31,AS,€80K,Fifa Score,Omiya Ardija,€1K,1000,80000
+Japan,Y. Fujita,JP,34,AS,€40K,Fifa Score,Júbilo Iwata,€1K,1000,40000
+Japan,K. Nagato,JP,22,AS,€190K,Fifa Score,Vegalta Sendai,€1K,1000,190000
+Japan,H. Oka,JP,29,AS,€100K,Fifa Score,Ventforet Kofu,€1K,1000,100000
+Japan,I. Oda,JP,18,AS,€290K,Fifa Score,Kashima Antlers,€1K,1000,290000
+Japan,R. Sawakami,JP,23,AS,€220K,Fifa Score,Cerezo Osaka,€1K,1000,220000
+Japan,T. Onozawa,JP,19,AS,€325K,Fifa Score,Cerezo Osaka,€1K,1000,325000
+Japan,Y. Kimoto,JP,23,AS,€190K,Fifa Score,Cerezo Osaka,€1K,1000,190000
+Japan,J. Kinjo,JP,20,AS,€350K,Fifa Score,Fortuna Düsseldorf,€3K,3000,350000
+Japan,Y. Kawai,JP,27,AS,€160K,Fifa Score,Shimizu S-Pulse,€1K,1000,160000
+Japan,K. Sugiyama,JP,32,AS,€90K,Fifa Score,Shimizu S-Pulse,€1K,1000,90000
+Japan,K. Kitamoto,JP,35,AS,€40K,Fifa Score,Vissel Kobe,€1K,1000,40000
+Japan,W. Hashimoto,JP,30,AS,€110K,Fifa Score,Vissel Kobe,€1K,1000,110000
+Japan,R. Bando,JP,37,AS,€60K,Fifa Score,Omiya Ardija,€1K,1000,60000
+Japan,S. Hirayama,JP,32,AS,€120K,Fifa Score,Vegalta Sendai,€1K,1000,120000
+Japan,H. Ide,JP,23,AS,€240K,Fifa Score,Gamba Osaka,€2K,2000,240000
+Japan,K. Kirihata,JP,30,AS,€100K,Fifa Score,Kashiwa Reysol,€1K,1000,100000
+Japan,S. Shimizu,JP,24,AS,€210K,Fifa Score,Omiya Ardija,€1K,1000,210000
+Japan,D. Sugimoto,JP,23,AS,€150K,Fifa Score,Yokohama F. Marinos,€1K,1000,150000
+Japan,K. Kinoshita,JP,22,AS,€220K,Fifa Score,Halmstads BK,€1K,1000,220000
+Japan,T. Sugiyama,JP,36,AS,€20K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,20000
+Japan,R. Hironaga,JP,27,AS,€120K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,120000
+Japan,T. Nishimura,JP,20,AS,€260K,Fifa Score,Vegalta Sendai,€1K,1000,260000
+Japan,T. Tanaka,JP,34,AS,€80K,Fifa Score,Albirex Niigata,€1K,1000,80000
+Japan,K. Ikeda,JP,30,AS,€150K,Fifa Score,Sagan Tosu,€1K,1000,150000
+Japan,T. Tsuda,JP,36,AS,€20K,Fifa Score,Ventforet Kofu,€1K,1000,20000
+Japan,H. Yamamoto,JP,37,AS,€20K,Fifa Score,Ventforet Kofu,€1K,1000,20000
+Japan,K. Tagawa,JP,18,AS,€250K,Fifa Score,Sagan Tosu,€1K,1000,250000
+Japan,R. Kurisawa,JP,34,AS,€60K,Fifa Score,Kashiwa Reysol,€2K,2000,60000
+Japan,H. Mitsumaru,JP,23,AS,€220K,Fifa Score,Sagan Tosu,€1K,1000,220000
+Japan,K. Itakura,JP,20,AS,€290K,Fifa Score,Kawasaki Frontale,€1K,1000,290000
+Japan,S. Ono,JP,37,AS,€70K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,70000
+Japan,H. Goya,JP,23,AS,€290K,Fifa Score,Gamba Osaka,€2K,2000,290000
+Japan,H. Miyazawa,JP,28,AS,€210K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,210000
+Japan,T. Marutani,JP,28,AS,€190K,Fifa Score,Sanfrecce Hiroshima,€2K,2000,190000
+Japan,T. Imai,JP,26,AS,€180K,Fifa Score,Kashiwa Reysol,€2K,2000,180000
+Japan,T. Ogihara,JP,25,AS,€220K,Fifa Score,Yokohama F. Marinos,€1K,1000,220000
+Japan,K. Koizumi,JP,22,AS,€250K,Fifa Score,Albirex Niigata,€1K,1000,250000
+Japan,T. Okubo,JP,27,AS,€170K,Fifa Score,F.C. Tokyo,€1K,1000,170000
+Japan,T. Hirakawa,JP,38,AS,€70K,Fifa Score,Urawa Red Diamonds,€1K,1000,70000
+Japan,K. Inada,JP,32,AS,€120K,Fifa Score,Albirex Niigata,€1K,1000,120000
+Japan,Y. Ogawa,JP,32,AS,€160K,Fifa Score,Albirex Niigata,€1K,1000,160000
+Japan,S. Ito,JP,28,AS,€210K,Fifa Score,Yokohama F. Marinos,€2K,2000,210000
+Japan,M. Kurogi,JP,27,AS,€230K,Fifa Score,Ventforet Kofu,€1K,1000,230000
+Japan,H. Shiota,JP,36,AS,€30K,Fifa Score,Omiya Ardija,€1K,1000,30000
+Japan,J. Kanakubo,JP,29,AS,€200K,Fifa Score,Vegalta Sendai,€1K,1000,200000
+Japan,D. Schmidt,JP,25,AS,€190K,Fifa Score,Vegalta Sendai,€1K,1000,190000
+Japan,K. Tezuka,JP,21,AS,€300K,Fifa Score,Kashiwa Reysol,€2K,2000,300000
+Japan,K. Sekiguchi,JP,31,AS,€220K,Fifa Score,Cerezo Osaka,€1K,1000,220000
+Japan,S. Otsuki,JP,28,AS,€260K,Fifa Score,Vissel Kobe,€2K,2000,260000
+Japan,A. Tanaka,JP,18,AS,€525K,Fifa Score,Kawasaki Frontale,€1K,1000,525000
+Japan,S. Kobayashi,JP,23,AS,€325K,Fifa Score,Vissel Kobe,€1K,1000,325000
+Japan,T. Morishima,JP,20,AS,€375K,Fifa Score,Sanfrecce Hiroshima,€2K,2000,375000
+Japan,R. Hatsuse,JP,19,AS,€375K,Fifa Score,Gamba Osaka,€1K,1000,375000
+Japan,T. Arano,JP,24,AS,€325K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,325000
+Japan,K. Machida,JP,19,AS,€500K,Fifa Score,Kashima Antlers,€1K,1000,500000
+Japan,T. Masukawa,JP,37,AS,€30K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,30000
+Japan,A. Onaiwu,JP,21,AS,€350K,Fifa Score,Urawa Red Diamonds,€2K,2000,350000
+Japan,M. Kato,JP,26,AS,€270K,Fifa Score,Albirex Niigata,€1K,1000,270000
+Japan,K. Saito,JP,28,AS,€260K,Fifa Score,Júbilo Iwata,€2K,2000,260000
+Japan,J. Kamata,JP,31,AS,€170K,Fifa Score,Kashiwa Reysol,€2K,2000,170000
+Japan,H. Kawabe,JP,21,AS,€350K,Fifa Score,Júbilo Iwata,€1K,1000,350000
+Japan,K. Ono,JP,27,AS,€210K,Fifa Score,Albirex Niigata,€1K,1000,210000
+Japan,S. Ando,JP,26,AS,€210K,Fifa Score,Kawasaki Frontale,€1K,1000,210000
+Japan,Y. Segawa,JP,23,AS,€350K,Fifa Score,Omiya Ardija,€1K,1000,350000
+Japan,M. Okugawa,JP,21,AS,€475K,Fifa Score,SV Mattersburg,€4K,4000,475000
+Japan,S. Yokotani,JP,30,AS,€230K,Fifa Score,Omiya Ardija,€1K,1000,230000
+Japan,T. Miyazaki,JP,30,AS,€230K,Fifa Score,Júbilo Iwata,€1K,1000,230000
+Japan,K. Yano,JP,33,AS,€100K,Fifa Score,Albirex Niigata,€1K,1000,100000
+Japan,S. Hyodo,JP,31,AS,€220K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,220000
+Japan,T. Enomoto,JP,34,AS,€100K,Fifa Score,Urawa Red Diamonds,€2K,2000,100000
+Japan,T. Matsuura,JP,28,AS,€250K,Fifa Score,Júbilo Iwata,€2K,2000,250000
+Japan,S. Motegi,JP,20,AS,€400K,Fifa Score,Vegalta Sendai,€1K,1000,400000
+Japan,N. Kikuchi,JP,32,AS,€140K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,140000
+Japan,T. Umebachi,JP,25,AS,€325K,Fifa Score,Kashima Antlers,€2K,2000,325000
+Japan,S. Muroya,JP,23,AS,€375K,Fifa Score,F.C. Tokyo,€2K,2000,375000
+Japan,Y. Tamura,JP,24,AS,€325K,Fifa Score,Urawa Red Diamonds,€2K,2000,325000
+Japan,N. Sakurauchi,JP,27,AS,€250K,Fifa Score,Júbilo Iwata,€1K,1000,250000
+Japan,A. Hasegawa,JP,28,AS,€300K,Fifa Score,Omiya Ardija,€1K,1000,300000
+Japan,K. Shimura,JP,21,AS,€350K,Fifa Score,Júbilo Iwata,€1K,1000,350000
+Japan,N. Fujita,JP,30,AS,€280K,Fifa Score,Vissel Kobe,€2K,2000,280000
+Japan,K. Fujimoto,JP,31,AS,€200K,Fifa Score,Cerezo Osaka,€1K,1000,200000
+Japan,K. Kitagawa,JP,20,AS,€425K,Fifa Score,Shimizu S-Pulse,€1K,1000,425000
+Japan,S. Ogura,JP,31,AS,€200K,Fifa Score,Ventforet Kofu,€1K,1000,200000
+Japan,Y. Tanaka,JP,28,AS,€240K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,240000
+Japan,N. Ishihara,JP,32,AS,€240K,Fifa Score,Vegalta Sendai,€1K,1000,240000
+Japan,D. Nasu,JP,35,AS,€70K,Fifa Score,Urawa Red Diamonds,€2K,2000,70000
+Japan,N. Iwadate,JP,28,AS,€210K,Fifa Score,Urawa Red Diamonds,€2K,2000,210000
+Japan,Y. Minagawa,JP,25,AS,€400K,Fifa Score,Sanfrecce Hiroshima,€3K,3000,400000
+Japan,Y. Fujigaya,JP,36,AS,€40K,Fifa Score,Gamba Osaka,€1K,1000,40000
+Japan,T. Shimohira,JP,28,AS,€240K,Fifa Score,Yokohama F. Marinos,€2K,2000,240000
+Japan,A. Hyodo,JP,35,AS,€130K,Fifa Score,Ventforet Kofu,€1K,1000,130000
+Japan,K. Yamamoto,JP,27,AS,€300K,Fifa Score,Júbilo Iwata,€1K,1000,300000
+Japan,T. Kanai,JP,27,AS,€280K,Fifa Score,Yokohama F. Marinos,€2K,2000,280000
+Japan,J. Inamoto,JP,37,AS,€40K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,40000
+Japan,Y. Kobayashi,JP,31,AS,€200K,Fifa Score,Sagan Tosu,€1K,1000,200000
+Japan,Y. Chajima,JP,25,AS,€375K,Fifa Score,Sanfrecce Hiroshima,€3K,3000,375000
+Japan,R. Matsuda,JP,25,AS,€300K,Fifa Score,Cerezo Osaka,€1K,1000,300000
+Japan,K. Yamakoshi,JP,24,AS,€325K,Fifa Score,Omiya Ardija,€1K,1000,325000
+Japan,Y. Ota,JP,34,AS,€150K,Fifa Score,Júbilo Iwata,€1K,1000,150000
+Japan,A. Kawamoto,JP,27,AS,€325K,Fifa Score,Ventforet Kofu,€1K,1000,325000
+Japan,R. Koike,JP,21,AS,€350K,Fifa Score,Kashiwa Reysol,€2K,2000,350000
+Japan,N. Sugai,JP,32,AS,€240K,Fifa Score,Vegalta Sendai,€1K,1000,240000
+Japan,Y. Hashizume,JP,26,AS,€325K,Fifa Score,Ventforet Kofu,€1K,1000,325000
+Japan,H. Mita,JP,26,AS,€350K,Fifa Score,Vegalta Sendai,€1K,1000,350000
+Japan,M. Matsuhashi,JP,32,AS,€170K,Fifa Score,Ventforet Kofu,€1K,1000,170000
+Japan,R. Shinzato,JP,26,AS,€300K,Fifa Score,Ventforet Kofu,€1K,1000,300000
+Japan,H. Hatao,JP,26,AS,€325K,Fifa Score,Ventforet Kofu,€1K,1000,325000
+Japan,Y. Tokunaga,JP,33,AS,€120K,Fifa Score,F.C. Tokyo,€2K,2000,120000
+Japan,K. Hachisuka,JP,26,AS,€260K,Fifa Score,Vegalta Sendai,€1K,1000,260000
+Japan,K. Seki,JP,31,AS,€180K,Fifa Score,Vegalta Sendai,€1K,1000,180000
+Japan,H. Nakagawa,JP,22,AS,€525K,Fifa Score,Kashiwa Reysol,€3K,3000,525000
+Japan,S. Kobayashi,JP,26,AS,€400K,Fifa Score,Vegalta Sendai,€1K,1000,400000
+Japan,K. Mukuhara,JP,27,AS,€300K,Fifa Score,Sanfrecce Hiroshima,€1K,1000,300000
+Japan,K. Ogawa,JP,24,AS,€475K,Fifa Score,Vissel Kobe,€1K,1000,475000
+Japan,T. Yamashita,JP,29,AS,€290K,Fifa Score,Cerezo Osaka,€1K,1000,290000
+Japan,Y. Misao,JP,26,AS,€375K,Fifa Score,Kashima Antlers,€2K,2000,375000
+Japan,M. Kakuda,JP,33,AS,€150K,Fifa Score,Shimizu S-Pulse,€1K,1000,150000
+Japan,T. Takagi,JP,26,AS,€400K,Fifa Score,Urawa Red Diamonds,€3K,3000,400000
+Japan,S. Abe,JP,33,AS,€140K,Fifa Score,Ventforet Kofu,€1K,1000,140000
+Japan,S. Yajima,JP,23,AS,€475K,Fifa Score,Urawa Red Diamonds,€2K,2000,475000
+Japan,R. Yamanaka,JP,24,AS,€425K,Fifa Score,Yokohama F. Marinos,€2K,2000,425000
+Japan,T. Masushima,JP,32,AS,€210K,Fifa Score,Vegalta Sendai,€2K,2000,210000
+Japan,S. Nakahara,JP,23,AS,€500K,Fifa Score,Gamba Osaka,€1K,1000,500000
+Japan,T. Yokoyama,JP,32,AS,€210K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,210000
+Japan,H. Komoto,JP,31,AS,€250K,Fifa Score,Omiya Ardija,€1K,1000,250000
+Japan,K. Ueda,JP,31,AS,€250K,Fifa Score,Júbilo Iwata,€1K,1000,250000
+Japan,R. Arai,JP,26,AS,€375K,Fifa Score,Ventforet Kofu,€1K,1000,375000
+Japan,Theo Ryuki,JP,21,AS,€600K,Fifa Score,Portimonense SC,€1K,1000,600000
+Japan,H. Futami,JP,25,AS,€325K,Fifa Score,Shimizu S-Pulse,€1K,1000,325000
+Japan,H. Abe,JP,18,AS,€950K,Fifa Score,Kashima Antlers,€3K,3000,950000
+Japan,Y. Kobayashi,JP,22,AS,€500K,Fifa Score,Kashiwa Reysol,€3K,3000,500000
+Japan,T. Abe,JP,29,AS,€450K,Fifa Score,Ulsan Hyundai Horang-i,€3K,3000,450000
+Japan,Y. Tanaka,JP,31,AS,€300K,Fifa Score,Cerezo Osaka,€2K,2000,300000
+Japan,M. Mihara,JP,28,AS,€450K,Fifa Score,Vissel Kobe,€2K,2000,450000
+Japan,S. Obu,JP,24,AS,€525K,Fifa Score,Albirex Niigata,€2K,2000,525000
+Japan,S. Kaneko,JP,22,AS,€600K,Fifa Score,Shimizu S-Pulse,€2K,2000,600000
+Japan,R. Takeuchi,JP,26,AS,€475K,Fifa Score,Shimizu S-Pulse,€2K,2000,475000
+Japan,K. Matsubara,JP,20,AS,€550K,Fifa Score,Shimizu S-Pulse,€1K,1000,550000
+Japan,K. Kano,JP,31,AS,€400K,Fifa Score,Kawasaki Frontale,€3K,3000,400000
+Japan,S. Kamata,JP,28,AS,€350K,Fifa Score,Shimizu S-Pulse,€2K,2000,350000
+Japan,Y. Nakano,JP,24,AS,€600K,Fifa Score,Vegalta Sendai,€2K,2000,600000
+Japan,T. Inukai,JP,24,AS,€475K,Fifa Score,Shimizu S-Pulse,€1K,1000,475000
+Japan,Y. Takeoka,JP,31,AS,€300K,Fifa Score,Kawasaki Frontale,€3K,3000,300000
+Japan,Y. Ito,JP,23,AS,€525K,Fifa Score,Kashima Antlers,€3K,3000,525000
+Japan,G. Notsuda,JP,23,AS,€600K,Fifa Score,Vegalta Sendai,€3K,3000,600000
+Japan,K. Mizunuma,JP,27,AS,€475K,Fifa Score,Cerezo Osaka,€4K,4000,475000
+Japan,S. Otsuka,JP,27,AS,€475K,Fifa Score,Kawasaki Frontale,€3K,3000,475000
+Japan,K. Hashimoto,JP,23,AS,€600K,Fifa Score,F.C. Tokyo,€3K,3000,600000
+Japan,R. Yamazaki,JP,28,AS,€475K,Fifa Score,Albirex Niigata,€2K,2000,475000
+Japan,K. Mizuno,JP,31,AS,€400K,Fifa Score,Sagan Tosu,€2K,2000,400000
+Japan,K. Matsubara,JP,24,AS,€525K,Fifa Score,Yokohama F. Marinos,€2K,2000,525000
+Japan,Y. Kajiyama,JP,31,AS,€375K,Fifa Score,F.C. Tokyo,€4K,4000,375000
+Japan,K. Endo,JP,19,AS,€775K,Fifa Score,Yokohama F. Marinos,€2K,2000,775000
+Japan,C. Togashi,JP,23,AS,€600K,Fifa Score,Yokohama F. Marinos,€3K,3000,600000
+Japan,T. Moniwa,JP,35,AS,€110K,Fifa Score,Cerezo Osaka,€1K,1000,110000
+Japan,T. Wada,JP,26,AS,€425K,Fifa Score,Omiya Ardija,€2K,2000,425000
+Japan,T. Aoki,JP,34,AS,€140K,Fifa Score,Sagan Tosu,€2K,2000,140000
+Japan,J. Fujimoto,JP,33,AS,€270K,Fifa Score,Gamba Osaka,€4K,4000,270000
+Japan,S. Inagaki,JP,25,AS,€575K,Fifa Score,Sanfrecce Hiroshima,€4K,4000,575000
+Japan,A. Fukuta,JP,25,AS,€525K,Fifa Score,Sagan Tosu,€2K,2000,525000
+Japan,Y. Tanaka,JP,31,AS,€400K,Fifa Score,Ventforet Kofu,€2K,2000,400000
+Japan,T. Tomiyama,JP,26,AS,€550K,Fifa Score,Albirex Niigata,€2K,2000,550000
+Japan,S. Morishita,JP,31,AS,€300K,Fifa Score,Júbilo Iwata,€2K,2000,300000
+Japan,N. Kato,JP,32,AS,€260K,Fifa Score,Omiya Ardija,€1K,1000,260000
+Japan,K. Kawata,JP,29,AS,€300K,Fifa Score,Ventforet Kofu,€1K,1000,300000
+Japan,K. Oiwa,JP,27,AS,€375K,Fifa Score,Vegalta Sendai,€2K,2000,375000
+Japan,N. Ishikawa,JP,31,AS,€300K,Fifa Score,Hokkaido Consadole Sapporo,€2K,2000,300000
+Japan,M. Fujita,JP,31,AS,€300K,Fifa Score,Sagan Tosu,€2K,2000,300000
+Japan,D. Kobayashi,JP,34,AS,€220K,Fifa Score,New England Revolution,€3K,3000,220000
+Japan,Y. Rokutan,JP,30,AS,€350K,Fifa Score,Shimizu S-Pulse,€1K,1000,350000
+Japan,K. Oi,JP,33,AS,€220K,Fifa Score,Júbilo Iwata,€2K,2000,220000
+Japan,Y. Nakasaka,JP,19,AS,€1.2M,Fifa Score,Vissel Kobe,€2K,2000,1.2000000
+Japan,N. Sakemoto,JP,32,AS,€300K,Fifa Score,Cerezo Osaka,€2K,2000,300000
+Japan,Y. Maruhashi,JP,26,AS,€525K,Fifa Score,Cerezo Osaka,€2K,2000,525000
+Japan,Y. Hasegawa,JP,29,AS,€550K,Fifa Score,Shimizu S-Pulse,€2K,2000,550000
+Japan,K. Murata,JP,28,AS,€550K,Fifa Score,Shimizu S-Pulse,€2K,2000,550000
+Japan,S. Arai,JP,28,AS,€375K,Fifa Score,Kawasaki Frontale,€2K,2000,375000
+Japan,T. Miyayoshi,JP,24,AS,€725K,Fifa Score,Sanfrecce Hiroshima,€4K,4000,725000
+Japan,K. Miyoshi,JP,20,AS,€975K,Fifa Score,Kawasaki Frontale,€2K,2000,975000
+Japan,T. Aoki,JP,27,AS,€450K,Fifa Score,Urawa Red Diamonds,€4K,4000,450000
+Japan,T. Hasegawa,JP,23,AS,€800K,Fifa Score,Kawasaki Frontale,€2K,2000,800000
+Japan,K. Otani,JP,28,AS,€425K,Fifa Score,Albirex Niigata,€2K,2000,425000
+Japan,K. Omori,JP,25,AS,€650K,Fifa Score,Vissel Kobe,€2K,2000,650000
+Japan,R. Shindo,JP,21,AS,€650K,Fifa Score,Hokkaido Consadole Sapporo,€1K,1000,650000
+Japan,H. Fujiharu,JP,28,AS,€425K,Fifa Score,Gamba Osaka,€4K,4000,425000
+Japan,T. Yonemoto,JP,26,AS,€625K,Fifa Score,F.C. Tokyo,€4K,4000,625000
+Japan,K. Yoshimoto,JP,29,AS,€475K,Fifa Score,F.C. Tokyo,€3K,3000,475000
+Japan,R. Ogawa,JP,20,AS,€800K,Fifa Score,F.C. Tokyo,€2K,2000,800000
+Japan,Y. Maruyama,JP,28,AS,€450K,Fifa Score,F.C. Tokyo,€3K,3000,450000
+Japan,T. Morita,JP,26,AS,€450K,Fifa Score,Albirex Niigata,€1K,1000,450000
+Japan,K. Kikuchi,JP,31,AS,€375K,Fifa Score,Omiya Ardija,€2K,2000,375000
+Japan,J. Izumisawa,JP,25,AS,€675K,Fifa Score,Gamba Osaka,€4K,4000,675000
+Japan,Y. Iwakami,JP,27,AS,€575K,Fifa Score,Omiya Ardija,€2K,2000,575000
+Japan,A. Esaka,JP,25,AS,€700K,Fifa Score,Omiya Ardija,€2K,2000,700000
+Japan,M. Fitzgerald,JP,28,AS,€450K,Fifa Score,Kawasaki Frontale,€3K,3000,450000
+Japan,K. Morisaki,JP,36,AS,€70K,Fifa Score,Sanfrecce Hiroshima,€3K,3000,70000
+Japan,T. Hayashi,JP,34,AS,€220K,Fifa Score,Sanfrecce Hiroshima,€3K,3000,220000
+Japan,G. Omae,JP,27,AS,€575K,Fifa Score,Omiya Ardija,€2K,2000,575000
+Japan,Y. Igawa,JP,34,AS,€160K,Fifa Score,Kawasaki Frontale,€3K,3000,160000
+Japan,T. Endoh,JP,23,AS,€725K,Fifa Score,Toronto FC,€2K,2000,725000
+Japan,S. Akasaki,JP,25,AS,€700K,Fifa Score,Gamba Osaka,€4K,4000,700000
+Japan,R. Hayasaka,JP,31,AS,€475K,Fifa Score,Hokkaido Consadole Sapporo,€2K,2000,475000
+Japan,J. Kusukami,JP,29,AS,€525K,Fifa Score,Western Sydney Wanderers,€3K,3000,525000
+Japan,Y. Hiraoka,JP,31,AS,€375K,Fifa Score,Vegalta Sendai,€2K,2000,375000
+Japan,T. Kanamori,JP,23,AS,€800K,Fifa Score,Kashima Antlers,€4K,4000,800000
+Japan,K. Taketomi,JP,26,AS,€750K,Fifa Score,Kashiwa Reysol,€4K,4000,750000
+Japan,K. Nagasawa,JP,25,AS,€775K,Fifa Score,Urawa Red Diamonds,€4K,4000,775000
+Japan,K. Kawamata,JP,27,AS,€750K,Fifa Score,Júbilo Iwata,€2K,2000,750000
+Japan,T. Nakamura,JP,27,AS,€525K,Fifa Score,Júbilo Iwata,€2K,2000,525000
+Japan,A. Hayashi,JP,30,AS,€425K,Fifa Score,F.C. Tokyo,€3K,3000,425000
+Japan,K. Yamamura,JP,27,AS,€750K,Fifa Score,Cerezo Osaka,€2K,2000,750000
+Japan,A. Barada,JP,26,AS,€775K,Fifa Score,Omiya Ardija,€2K,2000,775000
+Japan,H. Otani,JP,32,AS,€375K,Fifa Score,Kashiwa Reysol,€4K,4000,375000
+Japan,M. Musaka,JP,26,AS,€675K,Fifa Score,Shimizu S-Pulse,€2K,2000,675000
+Japan,Y. Mutō,JP,28,AS,€675K,Fifa Score,Urawa Red Diamonds,€4K,4000,675000
+Japan,T. Umesaki,JP,30,AS,€600K,Fifa Score,Urawa Red Diamonds,€4K,4000,600000
+Japan,K. Tokura,JP,31,AS,€575K,Fifa Score,Hokkaido Consadole Sapporo,€2K,2000,575000
+Japan,R. Harakawa,JP,23,AS,€850K,Fifa Score,Sagan Tosu,€2K,2000,850000
+Japan,S. Yamamoto,JP,32,AS,€350K,Fifa Score,Kashima Antlers,€4K,4000,350000
+Japan,K. Yonekura,JP,29,AS,€475K,Fifa Score,Gamba Osaka,€4K,4000,475000
+Japan,K. Higashi,JP,26,AS,€700K,Fifa Score,F.C. Tokyo,€4K,4000,700000
+Japan,T. Lee,JP,31,AS,€575K,Fifa Score,Urawa Red Diamonds,€4K,4000,575000
+Japan,H. Kawano,JP,27,AS,€675K,Fifa Score,Sagan Tosu,€2K,2000,675000
+Japan,T. Morimoto,JP,29,AS,€650K,Fifa Score,Kawasaki Frontale,€3K,3000,650000
+Japan,J. Amano,JP,25,AS,€775K,Fifa Score,Yokohama F. Marinos,€3K,3000,775000
+Japan,Y. Tasaka,JP,31,AS,€425K,Fifa Score,Kawasaki Frontale,€3K,3000,425000
+Japan,H. Iikura,JP,31,AS,€400K,Fifa Score,Yokohama F. Marinos,€2K,2000,400000
+Japan,H. Mizumoto,JP,31,AS,€425K,Fifa Score,Sanfrecce Hiroshima,€4K,4000,425000
+Japan,Y. Takahashi,JP,32,AS,€375K,Fifa Score,Sagan Tosu,€2K,2000,375000
+Japan,S. Takahashi,JP,27,AS,€625K,Fifa Score,Vissel Kobe,€4K,4000,625000
+Japan,R. Shirasaki,JP,24,AS,€950K,Fifa Score,Shimizu S-Pulse,€3K,3000,950000
+Japan,T. Edamura,JP,30,AS,€725K,Fifa Score,Shimizu S-Pulse,€3K,3000,725000
+Japan,K. Moriya,JP,28,AS,€775K,Fifa Score,Kawasaki Frontale,€6K,6000,775000
+Japan,A. Nakamura,JP,26,AS,€825K,Fifa Score,Kashima Antlers,€8K,8000,825000
+Japan,R. Moriwaki,JP,31,AS,€525K,Fifa Score,Urawa Red Diamonds,€7K,7000,525000
+Japan,K. Misao,JP,21,AS,€1.1M,Fifa Score,Kashima Antlers,€6K,6000,1.1000000
+Japan,R. Nagaki,JP,29,AS,€600K,Fifa Score,Kashima Antlers,€8K,8000,600000
+Japan,S. Nagasawa,JP,28,AS,€800K,Fifa Score,Gamba Osaka,€9K,9000,800000
+Japan,D. Nishi,JP,29,AS,€575K,Fifa Score,Kashima Antlers,€8K,8000,575000
+Japan,K. Shimizu,JP,28,AS,€775K,Fifa Score,Shimizu S-Pulse,€8K,8000,775000
+Japan,H. Abe,JP,27,AS,€825K,Fifa Score,Kawasaki Frontale,€6K,6000,825000
+Japan,Y. Nakayama,JP,20,AS,€1.1M,Fifa Score,Kashiwa Reysol,€6K,6000,1.1000000
+Japan,Y. Otsu,JP,27,AS,€800K,Fifa Score,Kashiwa Reysol,€8K,8000,800000
+Japan,G. Miura,JP,22,AS,€1M,Fifa Score,Gamba Osaka,€6K,6000,1000000
+Japan,H. Hosogai,JP,31,AS,€525K,Fifa Score,Kashiwa Reysol,€7K,7000,525000
+Japan,K. Chiba,JP,32,AS,€450K,Fifa Score,Sanfrecce Hiroshima,€7K,7000,450000
+Japan,R. Miyaichi,JP,24,AS,€1M,Fifa Score,FC St. Pauli,€10K,10000,1000000
+Japan,M. Inoha,JP,31,AS,€525K,Fifa Score,Vissel Kobe,€4K,4000,525000
+Japan,Y. Nakazawa,JP,39,AS,€50K,Fifa Score,Yokohama F. Marinos,€4K,4000,50000
+Japan,A. Tanaka,JP,29,AS,€750K,Fifa Score,HJK Helsinki,€1K,1000,750000
+Japan,K. Nakamachi,JP,31,AS,€525K,Fifa Score,Yokohama F. Marinos,€6K,6000,525000
+Japan,M. Kudo,JP,27,AS,€900K,Fifa Score,Sanfrecce Hiroshima,€9K,9000,900000
+Japan,Y. Suzuki,JP,21,AS,€1.3M,Fifa Score,Kashima Antlers,€7K,7000,1.3000000
+Japan,H. Kanazono,JP,28,AS,€800K,Fifa Score,Hokkaido Consadole Sapporo,€4K,4000,800000
+Japan,Y. Konno,JP,34,AS,€230K,Fifa Score,Gamba Osaka,€7K,7000,230000
+Japan,Y. Yoshida,JP,27,AS,€625K,Fifa Score,Sagan Tosu,€4K,4000,625000
+Japan,H. Taniguchi,JP,32,AS,€450K,Fifa Score,Sagan Tosu,€4K,4000,450000
+Japan,R. Maeda,JP,35,AS,€350K,Fifa Score,F.C. Tokyo,€6K,6000,350000
+Japan,T. Nara,JP,23,AS,€975K,Fifa Score,Kawasaki Frontale,€5K,5000,975000
+Japan,Y. Toyoda,JP,32,AS,€600K,Fifa Score,Sagan Tosu,€4K,4000,600000
+Japan,S. Taniguchi,JP,25,AS,€825K,Fifa Score,Kawasaki Frontale,€5K,5000,825000
+Japan,D. Kikuchi,JP,26,AS,€950K,Fifa Score,Urawa Red Diamonds,€8K,8000,950000
+Japan,K. Ota,JP,29,AS,€675K,Fifa Score,F.C. Tokyo,€7K,7000,675000
+Japan,Y. Ono,JP,24,AS,€1.1M,Fifa Score,Sagan Tosu,€3K,3000,1.1000000
+Japan,R. Doan,JP,19,AS,€1.6M,Fifa Score,FC Groningen,€5K,5000,1.6000000
+Japan,T. Ugajin,JP,29,AS,€875K,Fifa Score,Urawa Red Diamonds,€8K,8000,875000
+Japan,S. Nakajima,JP,22,AS,€1.4M,Fifa Score,Portimonense SC,€7K,7000,1.4000000
+Japan,N. Wako,JP,27,AS,€825K,Fifa Score,Kashiwa Reysol,€7K,7000,825000
+Japan,T. Kida,JP,22,AS,€1.1M,Fifa Score,Yokohama F. Marinos,€5K,5000,1.1000000
+Japan,R. Morioka,JP,26,AS,€1.1M,Fifa Score,Waasland-Beveren,€8K,8000,1.1000000
+Japan,K. Noborizato,JP,26,AS,€1.1M,Fifa Score,Kawasaki Frontale,€6K,6000,1.1000000
+Japan,Y. Endo,JP,29,AS,€875K,Fifa Score,Kashima Antlers,€8K,8000,875000
+Japan,C. Masuda,JP,32,AS,€525K,Fifa Score,Shimizu S-Pulse,€3K,3000,525000
+Japan,S. Gonda,JP,28,AS,€625K,Fifa Score,Sagan Tosu,€3K,3000,625000
+Japan,J. Tanaka,JP,29,AS,€900K,Fifa Score,Vissel Kobe,€6K,6000,900000
+Japan,S. Tomita,JP,31,AS,€600K,Fifa Score,Vegalta Sendai,€4K,4000,600000
+Japan,H. Okuno,JP,27,AS,€950K,Fifa Score,Vegalta Sendai,€4K,4000,950000
+Japan,A. Ienaga,JP,31,AS,€950K,Fifa Score,Kawasaki Frontale,€6K,6000,950000
+Japan,K. Watanabe,JP,30,AS,€1M,Fifa Score,Vissel Kobe,€5K,5000,1000000
+Japan,R. Oshima,JP,24,AS,€1.2M,Fifa Score,Kawasaki Frontale,€5K,5000,1.2000000
+Japan,S. Kurumaya,JP,25,AS,€1.1M,Fifa Score,Kawasaki Frontale,€5K,5000,1.1000000
+Japan,D. Niwa,JP,31,AS,€700K,Fifa Score,Sanfrecce Hiroshima,€7K,7000,700000
+Japan,S. Kurata,JP,28,AS,€950K,Fifa Score,Gamba Osaka,€8K,8000,950000
+Japan,Y. Takahagi,JP,30,AS,€975K,Fifa Score,F.C. Tokyo,€7K,7000,975000
+Japan,K. Nakamura,JP,22,AS,€1.2M,Fifa Score,Kashiwa Reysol,€5K,5000,1.2000000
+Japan,K. Nagai,JP,28,AS,€1.1M,Fifa Score,F.C. Tokyo,€8K,8000,1.1000000
+Japan,Y. Abe,JP,35,AS,€450K,Fifa Score,Urawa Red Diamonds,€6K,6000,450000
+Japan,T. Makino,JP,30,AS,€775K,Fifa Score,Urawa Red Diamonds,€7K,7000,775000
+Japan,W. Endo,JP,24,AS,€1.1M,Fifa Score,Urawa Red Diamonds,€6K,6000,1.1000000
+Japan,T. Iwanami,JP,23,AS,€2.1M,Fifa Score,Vissel Kobe,€5K,5000,2.1000000
+Japan,S. Doi,JP,25,AS,€2.2M,Fifa Score,Kashima Antlers,€9K,9000,2.2000000
+Japan,Y. Ideguchi,JP,20,AS,€2.5M,Fifa Score,Gamba Osaka,€7K,7000,2.5000000
+Japan,K. Shibasaki,JP,32,AS,€1.4M,Fifa Score,Sanfrecce Hiroshima,€10K,10000,1.4000000
+Japan,N. Ueda,JP,22,AS,€2.3M,Fifa Score,Kashima Antlers,€8K,8000,2.3000000
+Japan,H. Sogahata,JP,37,AS,€120K,Fifa Score,Kashima Antlers,€5K,5000,120000
+Japan,M. Ogasawara,JP,38,AS,€240K,Fifa Score,Kashima Antlers,€6K,6000,240000
+Japan,S. Nakatani,JP,21,AS,€2.2M,Fifa Score,Kashiwa Reysol,€7K,7000,2.2000000
+Japan,M. Havenaar,JP,30,AS,€1.7M,Fifa Score,Vissel Kobe,€6K,6000,1.7000000
+Japan,D. Suzuki,JP,27,AS,€1.5M,Fifa Score,Gimnàstic de Tarragona,€7K,7000,1.5000000
+Japan,Y. Kashiwa,JP,29,AS,€1.7M,Fifa Score,Sanfrecce Hiroshima,€10K,10000,1.7000000
+Japan,H. Takahashi,JP,29,AS,€1.4M,Fifa Score,Vissel Kobe,€6K,6000,1.4000000
+Japan,S. Nishikawa,JP,31,AS,€1.1M,Fifa Score,Urawa Red Diamonds,€7K,7000,1.1000000
+Japan,Y. Komai,JP,25,AS,€2.1M,Fifa Score,Urawa Red Diamonds,€9K,9000,2.1000000
+Japan,D. Kamada,JP,20,AS,€2.9M,Fifa Score,Eintracht Frankfurt,€15K,15000,2.9000000
+Japan,Y. Kakitani,JP,27,AS,€1.9M,Fifa Score,Cerezo Osaka,€5K,5000,1.9000000
+Japan,T. Aoyama,JP,31,AS,€1.5M,Fifa Score,Sanfrecce Hiroshima,€10K,10000,1.5000000
+Japan,H. Yamaguchi,JP,26,AS,€1.8M,Fifa Score,Cerezo Osaka,€5K,5000,1.8000000
+Japan,H. Watanabe,JP,29,AS,€1.4M,Fifa Score,Vissel Kobe,€6K,6000,1.4000000
+Japan,K. Sugimoto,JP,24,AS,€3.1M,Fifa Score,Cerezo Osaka,€5K,5000,3.1000000
+Japan,Y. Okubo,JP,35,AS,€1.1M,Fifa Score,F.C. Tokyo,€7K,7000,1.1000000
+Japan,T. Asano,JP,22,AS,€3.5M,Fifa Score,VfB Stuttgart,€50K,50000,3.5000000
+Japan,H. Yamada,JP,28,AS,€2.4M,Fifa Score,Júbilo Iwata,€6K,6000,2.4000000
+Japan,S. Nakamura,JP,39,AS,€650K,Fifa Score,Júbilo Iwata,€4K,4000,650000
+Japan,Y. Kashiwagi,JP,29,AS,€2.3M,Fifa Score,Urawa Red Diamonds,€10K,10000,2.3000000
+Japan,M. Higashiguchi,JP,31,AS,€1.9M,Fifa Score,Gamba Osaka,€7K,7000,1.9000000
+Japan,T. Sekine,JP,22,AS,€4.4M,Fifa Score,FC Ingolstadt 04,€14K,14000,4.4000000
+Japan,Y. Endo,JP,37,AS,€425K,Fifa Score,Gamba Osaka,€6K,6000,425000
+Japan,T. Minamino,JP,22,AS,€4.4M,Fifa Score,FC Red Bull Salzburg,€21K,21000,4.4000000
+Japan,S. Koroki,JP,30,AS,€3M,Fifa Score,Urawa Red Diamonds,€11K,11000,3000000
+Japan,Y. Kobayashi,JP,25,AS,€3.9M,Fifa Score,SC Heerenveen,€8K,8000,3.9000000
+Japan,M. Saito,JP,27,AS,€3.3M,Fifa Score,Yokohama F. Marinos,€8K,8000,3.3000000
+Japan,E. Kawashima,JP,34,AS,€1.3M,Fifa Score,FC Metz,€8K,8000,1.3000000
+Japan,J. Ito,JP,24,AS,€5M,Fifa Score,Kashiwa Reysol,€12K,12000,5000000
+Japan,Y. Kobayashi,JP,29,AS,€4M,Fifa Score,Kawasaki Frontale,€11K,11000,4000000
+Japan,G. Shoji,JP,24,AS,€4.7M,Fifa Score,Kashima Antlers,€11K,11000,4.7000000
+Japan,M. Kanazaki,JP,28,AS,€4.1M,Fifa Score,Kashima Antlers,€15K,15000,4.1000000
+Japan,Y. Nagatomo,JP,30,AS,€2.9M,Fifa Score,Inter,€47K,47000,2.9000000
+Japan,A. Uchida,JP,29,AS,€3M,Fifa Score,1. FC Union Berlin,€30K,30000,3000000
+Japan,K. Nakamura,JP,36,AS,€1.3M,Fifa Score,Kawasaki Frontale,€7K,7000,1.3000000
+Japan,M. Morishige,JP,30,AS,€3M,Fifa Score,F.C. Tokyo,€11K,11000,3000000
+Japan,T. Usami,JP,25,AS,€7M,Fifa Score,Fortuna Düsseldorf,€23K,23000,7000000
+Japan,G. Sakai,JP,26,AS,€5.5M,Fifa Score,Hamburger SV,€29K,29000,5.5000000
+Japan,G. Shibasaki,JP,25,AS,€7.5M,Fifa Score,Getafe CF,€20K,20000,7.5000000
+Japan,M. Yoshida,JP,28,AS,€5.5M,Fifa Score,Southampton,€63K,63000,5.5000000
+Japan,Y. Kubo,JP,23,AS,€9M,Fifa Score,KAA Gent,€20K,20000,9000000
+Japan,H. Sakai,JP,27,AS,€5.5M,Fifa Score,Olympique de Marseille,€25K,25000,5.5000000
+Japan,G. Haraguchi,JP,26,AS,€8M,Fifa Score,Hertha BSC Berlin,€27K,27000,8000000
+Japan,H. Kiyotake,JP,27,AS,€9M,Fifa Score,Cerezo Osaka,€9K,9000,9000000
+Japan,Y. Mutō,JP,24,AS,€10.5M,Fifa Score,1. FSV Mainz 05,€30K,30000,10.5000000
+Japan,M. Hasebe,JP,33,AS,€3.6M,Fifa Score,Eintracht Frankfurt,€29K,29000,3.6000000
+Japan,Y. Ōsako,JP,27,AS,€10.5M,Fifa Score,1. FC Köln,€41K,41000,10.5000000
+Japan,S. Okazaki,JP,31,AS,€8M,Fifa Score,Leicester City,€74K,74000,8000000
+Japan,K. Honda,JP,31,AS,€9M,Fifa Score,Pachuca,€38K,38000,9000000
+Japan,T. Inui,JP,29,AS,€10M,Fifa Score,SD Eibar,€25K,25000,10000000
+Japan,S. Kagawa,JP,28,AS,€26M,Fifa Score,Borussia Dortmund,€75K,75000,26000000
+Kazakhstan,W. Evseev,KZ,25,AS,€550K,Fifa Score,Hansa Rostock,€1K,1000,550000
+Kazakhstan,K. Engel,KZ,28,AS,€500K,Fifa Score,VfL Osnabrück,€1K,1000,500000
+Kazakhstan,A. Merkel,KZ,25,AS,€1.1M,Fifa Score,VfL Bochum,€11K,11000,1.1000000
+Kuwait,F. Al Hajeri,KW,25,AS,€270K,Fifa Score,Ettifaq FC,€3K,3000,270000
+Kuwait,F. Al Berahim,KW,30,AS,€1.8M,Fifa Score,Al Ittihad,€24K,24000,1.8000000
+Lebanon,O. Bugiel,LB,23,AS,€130K,Fifa Score,Forest Green,€2K,2000,130000
+Lebanon,D. Zeaiter,LB,22,AS,€240K,Fifa Score,MSV Duisburg,€1K,1000,240000
+Lebanon,H. El Helwe,LB,22,AS,€425K,Fifa Score,Hallescher FC,€1K,1000,425000
+Lebanon,S. Saad,LB,24,AS,€825K,Fifa Score,Sporting Kansas City,€3K,3000,825000
+Lebanon,B. Jradi,LB,23,AS,€1.4M,Fifa Score,Strømsgodset IF,€3K,3000,1.4000000
+Oman,A. Al-Habsi,OM,35,AS,€950K,Fifa Score,Al Hilal,€17K,17000,950000
+Philippines,D. Sato,PH,22,AS,€90K,Fifa Score,AC Horsens,€1K,1000,90000
+Philippines,S. Palla,PH,28,AS,€290K,Fifa Score,Wolfsberger AC,€3K,3000,290000
+Philippines,N. Etheridge,PH,27,AS,€725K,Fifa Score,Cardiff City,€13K,13000,725000
+Qatar,A. Madibo,QA,20,AS,€350K,Fifa Score,KAS Eupen,€2K,2000,350000
+Qatar,H. Sanhaji,QA,23,AS,€500K,Fifa Score,KAS Eupen,€2K,2000,500000
+Qatar,A. Moein,QA,21,AS,€575K,Fifa Score,C.D. Leonesa S.A.D.,€1K,1000,575000
+Qatar,Y. Ahmed,QA,23,AS,€625K,Fifa Score,C.D. Leonesa S.A.D.,€2K,2000,625000
+Qatar,A. Fadlalla,QA,23,AS,€750K,Fifa Score,KAS Eupen,€3K,3000,750000
+Qatar,A. Afif,QA,20,AS,€1.4M,Fifa Score,KAS Eupen,€14K,14000,1.4000000
+Saudi Arabia,M. Al Baqawi,SA,19,AS,€50K,Fifa Score,Al Taawoun,€1K,1000,50000
+Saudi Arabia,M. Al Saeed,SA,20,AS,€50K,Fifa Score,Al Fateh,€3K,3000,50000
+Saudi Arabia,O. Al Suhaymi,SA,24,AS,€30K,Fifa Score,Al Faisaly,€2K,2000,30000
+Saudi Arabia,S. Al Amrani,SA,23,AS,€40K,Fifa Score,Al Raed,€2K,2000,40000
+Saudi Arabia,F. Al Johani,SA,24,AS,€30K,Fifa Score,Ohod Club,€2K,2000,30000
+Saudi Arabia,Z. Al Haniti,SA,20,AS,€40K,Fifa Score,Ohod Club,€2K,2000,40000
+Saudi Arabia,H. Al Radhi,SA,23,AS,€40K,Fifa Score,Al Fateh,€3K,3000,40000
+Saudi Arabia,K. Al Mozaibri,SA,26,AS,€30K,Fifa Score,Al Batin,€1K,1000,30000
+Saudi Arabia,H. Sharahili,SA,24,AS,€50K,Fifa Score,Al Batin,€2K,2000,50000
+Saudi Arabia,H. Al Mansour,SA,24,AS,€50K,Fifa Score,Al Faisaly,€3K,3000,50000
+Saudi Arabia,S. Al Khayri,SA,22,AS,€70K,Fifa Score,Ettifaq FC,€2K,2000,70000
+Saudi Arabia,M. Al Zubaidi,SA,19,AS,€70K,Fifa Score,Ettifaq FC,€1K,1000,70000
+Saudi Arabia,A. Al Eid,SA,19,AS,€110K,Fifa Score,Al Fateh,€2K,2000,110000
+Saudi Arabia,A. Al Basisi,SA,39,AS,€0,Fifa Score,Ohod Club,€1K,1000,0
+Saudi Arabia,H. Hawsawi,SA,20,AS,€90K,Fifa Score,Al Fayha,€1K,1000,90000
+Saudi Arabia,Y. Al Sayyah,SA,21,AS,€60K,Fifa Score,Al Taawoun,€1K,1000,60000
+Saudi Arabia,A. Al Yousif,SA,19,AS,€70K,Fifa Score,Al Fateh,€2K,2000,70000
+Saudi Arabia,A. Al Haidari,SA,20,AS,€60K,Fifa Score,Ohod Club,€2K,2000,60000
+Saudi Arabia,M. Al Mutairi,SA,25,AS,€50K,Fifa Score,Al Batin,€2K,2000,50000
+Saudi Arabia,A. Al Shammari,SA,21,AS,€70K,Fifa Score,Al Batin,€1K,1000,70000
+Saudi Arabia,H. Al Khulaif,SA,21,AS,€70K,Fifa Score,Al Fateh,€2K,2000,70000
+Saudi Arabia,H. Abdulmajeed,SA,23,AS,€50K,Fifa Score,Ohod Club,€2K,2000,50000
+Saudi Arabia,K. Al Hamdhi,SA,25,AS,€60K,Fifa Score,Ettifaq FC,€2K,2000,60000
+Saudi Arabia,I. Al Shuayl,SA,22,AS,€70K,Fifa Score,Al Qadisiyah,€2K,2000,70000
+Saudi Arabia,A. Al Obud,SA,22,AS,€100K,Fifa Score,Ettifaq FC,€2K,2000,100000
+Saudi Arabia,H. Al Jasim,SA,22,AS,€80K,Fifa Score,Al Fateh,€3K,3000,80000
+Saudi Arabia,A. Al Qasir,SA,24,AS,€70K,Fifa Score,Al Raed,€3K,3000,70000
+Saudi Arabia,N. Al Anazi,SA,28,AS,€50K,Fifa Score,Al Batin,€1K,1000,50000
+Saudi Arabia,K. Al Muqaytib,SA,25,AS,€60K,Fifa Score,Al Raed,€2K,2000,60000
+Saudi Arabia,M. Al Maqadi,SA,28,AS,€60K,Fifa Score,Ettifaq FC,€2K,2000,60000
+Saudi Arabia,H. Al Nakhli,SA,22,AS,€90K,Fifa Score,Al Fateh,€3K,3000,90000
+Saudi Arabia,I. Al Subaie,SA,30,AS,€40K,Fifa Score,Ohod Club,€2K,2000,40000
+Saudi Arabia,O. Al Saleem,SA,20,AS,€100K,Fifa Score,Ettifaq FC,€1K,1000,100000
+Saudi Arabia,M. Al Khaibari,SA,20,AS,€100K,Fifa Score,Ohod Club,€2K,2000,100000
+Saudi Arabia,A. Al Shehry,SA,21,AS,€60K,Fifa Score,Al Qadisiyah,€1K,1000,60000
+Saudi Arabia,M. Al Najrani,SA,23,AS,€80K,Fifa Score,Al Qadisiyah,€2K,2000,80000
+Saudi Arabia,A. Majrashi,SA,21,AS,€80K,Fifa Score,Ettifaq FC,€1K,1000,80000
+Saudi Arabia,A. Al Shahrani,SA,23,AS,€80K,Fifa Score,Al Qadisiyah,€2K,2000,80000
+Saudi Arabia,M. Al Mufarrij,SA,20,AS,€90K,Fifa Score,Al Hilal,€3K,3000,90000
+Saudi Arabia,S. Al Nabit,SA,21,AS,€100K,Fifa Score,Ohod Club,€2K,2000,100000
+Saudi Arabia,A. Al Najai,SA,22,AS,€80K,Fifa Score,Al Faisaly,€2K,2000,80000
+Saudi Arabia,M. Al Johani,SA,22,AS,€110K,Fifa Score,Ohod Club,€3K,3000,110000
+Saudi Arabia,H. Dhaifallah,SA,23,AS,€100K,Fifa Score,Al Raed,€2K,2000,100000
+Saudi Arabia,F. Al Harbi,SA,21,AS,€110K,Fifa Score,Al Raed,€2K,2000,110000
+Saudi Arabia,A. Al Zahrani,SA,23,AS,€70K,Fifa Score,Al Raed,€2K,2000,70000
+Saudi Arabia,A. Awaji,SA,23,AS,€90K,Fifa Score,Al Faisaly,€3K,3000,90000
+Saudi Arabia,M. Naji,SA,23,AS,€90K,Fifa Score,Ohod Club,€2K,2000,90000
+Saudi Arabia,A. Al Enazi,SA,22,AS,€80K,Fifa Score,Ohod Club,€2K,2000,80000
+Saudi Arabia,O. Ashoor,SA,28,AS,€50K,Fifa Score,Ohod Club,€3K,3000,50000
+Saudi Arabia,M. Al Majhad,SA,18,AS,€110K,Fifa Score,Al Fateh,€2K,2000,110000
+Saudi Arabia,S. Al Saleh,SA,25,AS,€60K,Fifa Score,Al Qadisiyah,€1K,1000,60000
+Saudi Arabia,J. Al Dossary,SA,23,AS,€80K,Fifa Score,Al Faisaly,€2K,2000,80000
+Saudi Arabia,A. Al Sharid,SA,23,AS,€110K,Fifa Score,Al Taawoun,€3K,3000,110000
+Saudi Arabia,A. Al Amri,SA,22,AS,€90K,Fifa Score,Al Ittihad,€3K,3000,90000
+Saudi Arabia,R. Al Mousa,SA,22,AS,€130K,Fifa Score,Al Taawoun,€5K,5000,130000
+Saudi Arabia,M. Attiyah,SA,25,AS,€120K,Fifa Score,Ohod Club,€3K,3000,120000
+Saudi Arabia,A. Alkhaibari,SA,20,AS,€130K,Fifa Score,Al Shabab,€3K,3000,130000
+Saudi Arabia,N. Al Mutairi,SA,29,AS,€90K,Fifa Score,Al Batin,€2K,2000,90000
+Saudi Arabia,A. Al Shehri,SA,23,AS,€130K,Fifa Score,Ettifaq FC,€2K,2000,130000
+Saudi Arabia,A. Al Mutairi,SA,21,AS,€140K,Fifa Score,Al Batin,€2K,2000,140000
+Saudi Arabia,F. Bin Munyif,SA,23,AS,€90K,Fifa Score,Al Faisaly,€3K,3000,90000
+Saudi Arabia,M. Kanabah,SA,24,AS,€120K,Fifa Score,Al Batin,€2K,2000,120000
+Saudi Arabia,A. Dannah,SA,23,AS,€120K,Fifa Score,Al Fateh,€3K,3000,120000
+Saudi Arabia,A. Al Assiri,SA,28,AS,€70K,Fifa Score,Ohod Club,€3K,3000,70000
+Saudi Arabia,M. Asiri,SA,25,AS,€100K,Fifa Score,Ohod Club,€3K,3000,100000
+Saudi Arabia,A. Al Meshaweh,SA,21,AS,€110K,Fifa Score,Al Raed,€2K,2000,110000
+Saudi Arabia,B. Al Nakhli,SA,28,AS,€90K,Fifa Score,Ohod Club,€3K,3000,90000
+Saudi Arabia,S. Hawsawi,SA,25,AS,€100K,Fifa Score,Al Taawoun,€3K,3000,100000
+Saudi Arabia,A. Al Salman,SA,23,AS,€120K,Fifa Score,Al Taawoun,€3K,3000,120000
+Saudi Arabia,W. Al Enazi,SA,20,AS,€110K,Fifa Score,Al Nassr,€3K,3000,110000
+Saudi Arabia,T. Abdullah,SA,21,AS,€140K,Fifa Score,Al Ittihad,€4K,4000,140000
+Saudi Arabia,M. Asiri,SA,24,AS,€80K,Fifa Score,Al Qadisiyah,€2K,2000,80000
+Saudi Arabia,M. Al Olayan,SA,22,AS,€110K,Fifa Score,Al Taawoun,€3K,3000,110000
+Saudi Arabia,M. Al Huthaifi,SA,19,AS,€160K,Fifa Score,Al Ittihad,€3K,3000,160000
+Saudi Arabia,M. Al Mutlaq,SA,19,AS,€170K,Fifa Score,Al Nassr,€3K,3000,170000
+Saudi Arabia,H. Al Watyan,SA,20,AS,€130K,Fifa Score,Al Fateh,€2K,2000,130000
+Saudi Arabia,T. Al Khudair,SA,29,AS,€90K,Fifa Score,Al Ittihad,€5K,5000,90000
+Saudi Arabia,A. Al Amoudi,SA,30,AS,€90K,Fifa Score,Ohod Club,€3K,3000,90000
+Saudi Arabia,T. Sufyani,SA,25,AS,€130K,Fifa Score,Ettifaq FC,€3K,3000,130000
+Saudi Arabia,M. Al Haidari,SA,21,AS,€130K,Fifa Score,Al Hilal,€3K,3000,130000
+Saudi Arabia,K. Al Muwallad,SA,22,AS,€130K,Fifa Score,Ohod Club,€3K,3000,130000
+Saudi Arabia,N. Al Shenashini,SA,21,AS,€180K,Fifa Score,Al Nassr,€4K,4000,180000
+Saudi Arabia,I. Al Shehri,SA,21,AS,€170K,Fifa Score,Al Ittihad,€4K,4000,170000
+Saudi Arabia,A. Ba Masoud,SA,21,AS,€180K,Fifa Score,Al Fayha,€4K,4000,180000
+Saudi Arabia,M. Najjar,SA,22,AS,€170K,Fifa Score,Al Qadisiyah,€2K,2000,170000
+Saudi Arabia,A. Al Shammari,SA,23,AS,€120K,Fifa Score,Al Taawoun,€3K,3000,120000
+Saudi Arabia,A. Al Yahya,SA,28,AS,€110K,Fifa Score,Ohod Club,€4K,4000,110000
+Saudi Arabia,Y. Khormi,SA,19,AS,€190K,Fifa Score,Al Ittihad,€3K,3000,190000
+Saudi Arabia,A. Al Joui,SA,22,AS,€180K,Fifa Score,Al Batin,€2K,2000,180000
+Saudi Arabia,M. Al Shahrani,SA,21,AS,€150K,Fifa Score,Al Nassr,€4K,4000,150000
+Saudi Arabia,L. Al Rashdi,SA,22,AS,€120K,Fifa Score,Ettifaq FC,€2K,2000,120000
+Saudi Arabia,M. Harzan,SA,28,AS,€100K,Fifa Score,Ohod Club,€3K,3000,100000
+Saudi Arabia,O. Al Khalaf,SA,20,AS,€180K,Fifa Score,Ettifaq FC,€2K,2000,180000
+Saudi Arabia,S. Al Ghamdi,SA,25,AS,€100K,Fifa Score,Al Taawoun,€2K,2000,100000
+Saudi Arabia,M. Al Baqawi,SA,21,AS,€160K,Fifa Score,Al Fayha,€4K,4000,160000
+Saudi Arabia,A. Al Suhail,SA,28,AS,€100K,Fifa Score,Al Taawoun,€3K,3000,100000
+Saudi Arabia,S. Otayf,SA,26,AS,€150K,Fifa Score,Al Raed,€3K,3000,150000
+Saudi Arabia,A. Al Shammary,SA,21,AS,€220K,Fifa Score,Al Batin,€4K,4000,220000
+Saudi Arabia,M. Majrashi,SA,26,AS,€140K,Fifa Score,Al Faisaly,€4K,4000,140000
+Saudi Arabia,F. Bin Jamayah,SA,22,AS,€200K,Fifa Score,Al Nassr,€5K,5000,200000
+Saudi Arabia,S. Mandash,SA,22,AS,€200K,Fifa Score,Al Faisaly,€3K,3000,200000
+Saudi Arabia,H. Algeed,SA,19,AS,€240K,Fifa Score,Al Shabab,€3K,3000,240000
+Saudi Arabia,A. Hazazi,SA,23,AS,€170K,Fifa Score,Ettifaq FC,€2K,2000,170000
+Saudi Arabia,A. Al Megbas,SA,21,AS,€210K,Fifa Score,Al Shabab,€4K,4000,210000
+Saudi Arabia,J. Al Dhafeeri,SA,24,AS,€140K,Fifa Score,Al Batin,€2K,2000,140000
+Saudi Arabia,Y. Al Sawasan,SA,27,AS,€100K,Fifa Score,Al Batin,€2K,2000,100000
+Saudi Arabia,J. Al Shammari,SA,25,AS,€140K,Fifa Score,Al Batin,€2K,2000,140000
+Saudi Arabia,O. Hawsawi,SA,24,AS,€130K,Fifa Score,Ohod Club,€2K,2000,130000
+Saudi Arabia,O. Al Sunain,SA,22,AS,€180K,Fifa Score,Ettifaq FC,€2K,2000,180000
+Saudi Arabia,F. Al Habib,SA,19,AS,€140K,Fifa Score,Al Shabab,€1K,1000,140000
+Saudi Arabia,S. Al Shammari,SA,27,AS,€100K,Fifa Score,Ohod Club,€3K,3000,100000
+Saudi Arabia,A. Al Turki,SA,23,AS,€210K,Fifa Score,Al Taawoun,€3K,3000,210000
+Saudi Arabia,N. Al Mousa,SA,26,AS,€160K,Fifa Score,Al Fateh,€4K,4000,160000
+Saudi Arabia,A. Al Najjar,SA,20,AS,€280K,Fifa Score,Al Ittihad,€4K,4000,280000
+Saudi Arabia,A. Al Dawsari,SA,19,AS,€300K,Fifa Score,Al Taawoun,€3K,3000,300000
+Saudi Arabia,A. Al Aryani,SA,21,AS,€260K,Fifa Score,Al Ittihad,€5K,5000,260000
+Saudi Arabia,R. Al Hafizi,SA,21,AS,€220K,Fifa Score,Ohod Club,€2K,2000,220000
+Saudi Arabia,T. Al Shamali,SA,27,AS,€160K,Fifa Score,Al Raed,€3K,3000,160000
+Saudi Arabia,N. Al Muwallad,SA,24,AS,€180K,Fifa Score,Al Faisaly,€3K,3000,180000
+Saudi Arabia,S. Al Mutairi,SA,29,AS,€160K,Fifa Score,Al Batin,€2K,2000,160000
+Saudi Arabia,A. Al Saleh,SA,27,AS,€130K,Fifa Score,Ettifaq FC,€2K,2000,130000
+Saudi Arabia,A. Al Bukhari,SA,22,AS,€190K,Fifa Score,Ettifaq FC,€2K,2000,190000
+Saudi Arabia,A. Al Harbi,SA,22,AS,€170K,Fifa Score,Al Raed,€3K,3000,170000
+Saudi Arabia,M. Al Khodary,SA,25,AS,€170K,Fifa Score,Al Batin,€2K,2000,170000
+Saudi Arabia,A. Al Fahad,SA,25,AS,€250K,Fifa Score,Al Fayha,€3K,3000,250000
+Saudi Arabia,A. Al Suwat,SA,22,AS,€300K,Fifa Score,Al Taawoun,€3K,3000,300000
+Saudi Arabia,F. Ghazi,SA,23,AS,€240K,Fifa Score,Al Shabab,€4K,4000,240000
+Saudi Arabia,A. Majrashi,SA,19,AS,€325K,Fifa Score,Al Ahli,€3K,3000,325000
+Saudi Arabia,G. Al Shelali,SA,23,AS,€250K,Fifa Score,Al Ittihad,€4K,4000,250000
+Saudi Arabia,H. Al Shamrani,SA,20,AS,€350K,Fifa Score,Al Ahli,€4K,4000,350000
+Saudi Arabia,A. Al Hbeab,SA,24,AS,€260K,Fifa Score,Ettifaq FC,€2K,2000,260000
+Saudi Arabia,R. Sharahili,SA,24,AS,€240K,Fifa Score,Al Fateh,€3K,3000,240000
+Saudi Arabia,M. Al Rashdi,SA,26,AS,€220K,Fifa Score,Al Raed,€3K,3000,220000
+Saudi Arabia,R. Al Shammari,SA,20,AS,€350K,Fifa Score,Al Shabab,€4K,4000,350000
+Saudi Arabia,M. Salem,SA,31,AS,€140K,Fifa Score,Al Shabab,€4K,4000,140000
+Saudi Arabia,S. Al Dosari,SA,25,AS,€250K,Fifa Score,Al Taawoun,€3K,3000,250000
+Saudi Arabia,B. Al Baqi,SA,27,AS,€170K,Fifa Score,Al Ahli,€4K,4000,170000
+Saudi Arabia,I. Zaid,SA,27,AS,€170K,Fifa Score,Al Faisaly,€3K,3000,170000
+Saudi Arabia,B. Al Mutairi,SA,27,AS,€170K,Fifa Score,Al Batin,€2K,2000,170000
+Saudi Arabia,N. Al Dhafeeri,SA,35,AS,€50K,Fifa Score,Al Batin,€1K,1000,50000
+Saudi Arabia,S. Abdullah,SA,28,AS,€160K,Fifa Score,Ohod Club,€3K,3000,160000
+Saudi Arabia,M. Al Wakid,SA,25,AS,€200K,Fifa Score,Al Hilal,€4K,4000,200000
+Saudi Arabia,A. Al Fahmi,SA,26,AS,€190K,Fifa Score,Al Qadisiyah,€2K,2000,190000
+Saudi Arabia,A. Jezawi,SA,28,AS,€250K,Fifa Score,Al Raed,€4K,4000,250000
+Saudi Arabia,F. Al Johani,SA,25,AS,€325K,Fifa Score,Al Qadisiyah,€3K,3000,325000
+Saudi Arabia,A. Shuhail,SA,32,AS,€140K,Fifa Score,Al Ittihad,€6K,6000,140000
+Saudi Arabia,M. Al Bishi,SA,29,AS,€250K,Fifa Score,Al Fayha,€5K,5000,250000
+Saudi Arabia,M. Al Saiari,SA,24,AS,€325K,Fifa Score,Ettifaq FC,€3K,3000,325000
+Saudi Arabia,M. Abu Shararah,SA,26,AS,€325K,Fifa Score,Al Qadisiyah,€4K,4000,325000
+Saudi Arabia,A. Al Khulaif,SA,20,AS,€425K,Fifa Score,Al Ahli,€5K,5000,425000
+Saudi Arabia,H. Al Habib,SA,22,AS,€375K,Fifa Score,Ettifaq FC,€3K,3000,375000
+Saudi Arabia,K. Al Samiri,SA,20,AS,€400K,Fifa Score,Al Ittihad,€5K,5000,400000
+Saudi Arabia,M. Al Enazi,SA,33,AS,€100K,Fifa Score,Al Batin,€3K,3000,100000
+Saudi Arabia,H. Al Jayzani,SA,24,AS,€300K,Fifa Score,Al Shabab,€5K,5000,300000
+Saudi Arabia,D. Al Qarni,SA,28,AS,€200K,Fifa Score,Al Fayha,€4K,4000,200000
+Saudi Arabia,K. Al Anazi,SA,32,AS,€200K,Fifa Score,Al Batin,€3K,3000,200000
+Saudi Arabia,H. Jafry,SA,25,AS,€250K,Fifa Score,Al Fayha,€4K,4000,250000
+Saudi Arabia,A. Al Ammar,SA,23,AS,€325K,Fifa Score,Al Fateh,€4K,4000,325000
+Saudi Arabia,M. Al Otaibi,SA,25,AS,€325K,Fifa Score,Al Batin,€3K,3000,325000
+Saudi Arabia,F. Al Reshedi,SA,26,AS,€300K,Fifa Score,Al Raed,€4K,4000,300000
+Saudi Arabia,H. Al Shuwaysh,SA,28,AS,€240K,Fifa Score,Al Raed,€4K,4000,240000
+Saudi Arabia,M. Khubrani,SA,23,AS,€270K,Fifa Score,Al Qadisiyah,€3K,3000,270000
+Saudi Arabia,I. Al Zubaidi,SA,27,AS,€230K,Fifa Score,Al Taawoun,€4K,4000,230000
+Saudi Arabia,M. Malaeka,SA,31,AS,€150K,Fifa Score,Al Faisaly,€4K,4000,150000
+Saudi Arabia,A. Dagriri,SA,27,AS,€170K,Fifa Score,Al Fayha,€3K,3000,170000
+Saudi Arabia,M. Hamzi,SA,25,AS,€300K,Fifa Score,Al Faisaly,€5K,5000,300000
+Saudi Arabia,S. Al Sharif,SA,25,AS,€350K,Fifa Score,Al Raed,€4K,4000,350000
+Saudi Arabia,W. Mudhaya,SA,25,AS,€375K,Fifa Score,Al Qadisiyah,€3K,3000,375000
+Saudi Arabia,A. Al Barakah,SA,26,AS,€300K,Fifa Score,Al Fayha,€4K,4000,300000
+Saudi Arabia,S. Al Najai,SA,20,AS,€650K,Fifa Score,Al Nassr,€5K,5000,650000
+Saudi Arabia,S. Al Shehri,SA,23,AS,€475K,Fifa Score,Al Raed,€4K,4000,475000
+Saudi Arabia,A. Al Asmari,SA,20,AS,€500K,Fifa Score,Al Ahli,€5K,5000,500000
+Saudi Arabia,A. Al Sdairy,SA,25,AS,€280K,Fifa Score,Al Shabab,€4K,4000,280000
+Saudi Arabia,A. Al Dawsari,SA,27,AS,€290K,Fifa Score,Al Fateh,€5K,5000,290000
+Saudi Arabia,A. Al Dohaim,SA,23,AS,€375K,Fifa Score,Al Ittihad,€5K,5000,375000
+Saudi Arabia,Y. Al Musallam,SA,31,AS,€200K,Fifa Score,Al Raed,€4K,4000,200000
+Saudi Arabia,M. Hazazi,SA,29,AS,€230K,Fifa Score,Al Fateh,€5K,5000,230000
+Saudi Arabia,W. Al Anazi,SA,22,AS,€475K,Fifa Score,Al Shabab,€5K,5000,475000
+Saudi Arabia,S. Al Masrahi,SA,30,AS,€230K,Fifa Score,Al Batin,€3K,3000,230000
+Saudi Arabia,M. Sharahili,SA,25,AS,€260K,Fifa Score,Al Nassr,€5K,5000,260000
+Saudi Arabia,A. Fallatah,SA,23,AS,€350K,Fifa Score,Al Qadisiyah,€3K,3000,350000
+Saudi Arabia,S. Al Khaibari,SA,27,AS,€260K,Fifa Score,Al Fayha,€4K,4000,260000
+Saudi Arabia,K. Al Zealaiy,SA,30,AS,€290K,Fifa Score,Al Raed,€4K,4000,290000
+Saudi Arabia,A. Majrashi,SA,25,AS,€290K,Fifa Score,Al Fateh,€4K,4000,290000
+Saudi Arabia,F. Al Shammari,SA,36,AS,€40K,Fifa Score,Al Fayha,€2K,2000,40000
+Saudi Arabia,J. Al Dawsari,SA,30,AS,€230K,Fifa Score,Al Shabab,€6K,6000,230000
+Saudi Arabia,A. Abbas,SA,32,AS,€170K,Fifa Score,Al Faisaly,€4K,4000,170000
+Saudi Arabia,A. Kano,SA,27,AS,€260K,Fifa Score,Al Fayha,€4K,4000,260000
+Saudi Arabia,O. Muzayil,SA,24,AS,€300K,Fifa Score,Al Ittihad,€5K,5000,300000
+Saudi Arabia,M. Tombakti,SA,23,AS,€450K,Fifa Score,Al Fayha,€3K,3000,450000
+Saudi Arabia,B. Al Seliteen,SA,26,AS,€400K,Fifa Score,Al Raed,€4K,4000,400000
+Saudi Arabia,A. Al Bulayhi,SA,27,AS,€300K,Fifa Score,Al Hilal,€6K,6000,300000
+Saudi Arabia,A. Sharahili,SA,23,AS,€500K,Fifa Score,Al Fateh,€5K,5000,500000
+Saudi Arabia,A. Al Mazaidi,SA,31,AS,€220K,Fifa Score,Al Fateh,€4K,4000,220000
+Saudi Arabia,N. Al Subhi,SA,27,AS,€300K,Fifa Score,Al Qadisiyah,€3K,3000,300000
+Saudi Arabia,K. Al Kaabi,SA,25,AS,€450K,Fifa Score,Al Shabab,€6K,6000,450000
+Saudi Arabia,F. Fallatah,SA,28,AS,€325K,Fifa Score,Al Qadisiyah,€3K,3000,325000
+Saudi Arabia,H. Al Amiri,SA,23,AS,€475K,Fifa Score,Al Qadisiyah,€3K,3000,475000
+Saudi Arabia,Z. Al Sahafi,SA,23,AS,€425K,Fifa Score,Al Ittihad,€5K,5000,425000
+Saudi Arabia,A. Madu,SA,23,AS,€400K,Fifa Score,Al Nassr,€5K,5000,400000
+Saudi Arabia,H. Al Hazaa,SA,25,AS,€475K,Fifa Score,Ettifaq FC,€4K,4000,475000
+Saudi Arabia,F. Al Subaiei,SA,34,AS,€150K,Fifa Score,Al Taawoun,€3K,3000,150000
+Saudi Arabia,S. Al Zubaidi,SA,24,AS,€425K,Fifa Score,Al Ahli,€5K,5000,425000
+Saudi Arabia,H. Mahmoud,SA,23,AS,€450K,Fifa Score,Al Fayha,€3K,3000,450000
+Saudi Arabia,A. Bin Khayrallah,SA,21,AS,€525K,Fifa Score,Al Taawoun,€5K,5000,525000
+Saudi Arabia,M. Al Anazi,SA,27,AS,€300K,Fifa Score,Al Batin,€2K,2000,300000
+Saudi Arabia,A. Al Yami,SA,26,AS,€350K,Fifa Score,Al Ittihad,€6K,6000,350000
+Saudi Arabia,A. Jafar,SA,23,AS,€500K,Fifa Score,Al Shabab,€5K,5000,500000
+Saudi Arabia,M. Al Amri,SA,25,AS,€400K,Fifa Score,Al Raed,€4K,4000,400000
+Saudi Arabia,M. Al Qarni,SA,27,AS,€350K,Fifa Score,Al Shabab,€6K,6000,350000
+Saudi Arabia,F. Al Aiyaf,SA,25,AS,€475K,Fifa Score,Al Raed,€4K,4000,475000
+Saudi Arabia,I. Al Maghrabi,SA,25,AS,€450K,Fifa Score,Al Taawoun,€4K,4000,450000
+Saudi Arabia,F. Al Kharaa,SA,23,AS,€400K,Fifa Score,Al Taawoun,€5K,5000,400000
+Saudi Arabia,S. Al Beshi,SA,27,AS,€300K,Fifa Score,Al Faisaly,€4K,4000,300000
+Saudi Arabia,M. Abusabaan,SA,27,AS,€350K,Fifa Score,Al Faisaly,€4K,4000,350000
+Saudi Arabia,F. Al Masrahi,SA,24,AS,€375K,Fifa Score,Al Qadisiyah,€2K,2000,375000
+Saudi Arabia,N. Hazzazi,SA,24,AS,€425K,Fifa Score,Al Qadisiyah,€3K,3000,425000
+Saudi Arabia,F. Al Yamani,SA,27,AS,€450K,Fifa Score,Al Faisaly,€7K,7000,450000
+Saudi Arabia,S. Al Yami,SA,23,AS,€550K,Fifa Score,Al Faisaly,€8K,8000,550000
+Saudi Arabia,A. Al Nazera,SA,24,AS,€600K,Fifa Score,Al Fateh,€9K,9000,600000
+Saudi Arabia,O. Abdulaziz,SA,33,AS,€180K,Fifa Score,Al Faisaly,€7K,7000,180000
+Saudi Arabia,A. Al Qahtani,SA,24,AS,€600K,Fifa Score,Al Fayha,€5K,5000,600000
+Saudi Arabia,A. Al Fahad,SA,23,AS,€500K,Fifa Score,Al Shabab,€7K,7000,500000
+Saudi Arabia,S. Shrahilee,SA,31,AS,€300K,Fifa Score,Al Shabab,€9K,9000,300000
+Saudi Arabia,M. Al Kuwaykibi,SA,22,AS,€675K,Fifa Score,Ettifaq FC,€4K,4000,675000
+Saudi Arabia,M. Al Khaibari,SA,25,AS,€450K,Fifa Score,Ettifaq FC,€9K,9000,450000
+Saudi Arabia,Y. Al Qahtani,SA,34,AS,€240K,Fifa Score,Al Hilal,€11K,11000,240000
+Saudi Arabia,M. Al Furayj,SA,29,AS,€300K,Fifa Score,Al Fayha,€5K,5000,300000
+Saudi Arabia,M. Al Harbi,SA,28,AS,€400K,Fifa Score,Al Fateh,€8K,8000,400000
+Saudi Arabia,A. Al Khaibari,SA,27,AS,€375K,Fifa Score,Ettifaq FC,€5K,5000,375000
+Saudi Arabia,H. Al Juhayyim,SA,29,AS,€450K,Fifa Score,Al Fateh,€9K,9000,450000
+Saudi Arabia,S. Al Jaman,SA,23,AS,€725K,Fifa Score,Al Ahli,€9K,9000,725000
+Saudi Arabia,M. Al Nakhli,SA,22,AS,€575K,Fifa Score,Al Ittihad,€8K,8000,575000
+Saudi Arabia,A. Al Shamekh,SA,24,AS,€500K,Fifa Score,Al Raed,€5K,5000,500000
+Saudi Arabia,W. Abdullah,SA,31,AS,€270K,Fifa Score,Al Nassr,€8K,8000,270000
+Saudi Arabia,A. Al Zaqan,SA,26,AS,€475K,Fifa Score,Al Fateh,€8K,8000,475000
+Saudi Arabia,T. Majrashi,SA,26,AS,€475K,Fifa Score,Al Fayha,€6K,6000,475000
+Saudi Arabia,S. Al Qumayzi,SA,25,AS,€475K,Fifa Score,Al Shabab,€8K,8000,475000
+Saudi Arabia,S. Al Mutairi,SA,27,AS,€375K,Fifa Score,Al Batin,€4K,4000,375000
+Saudi Arabia,A. Al Bishi,SA,23,AS,€625K,Fifa Score,Al Taawoun,€8K,8000,625000
+Saudi Arabia,M. Al Thmali,SA,25,AS,€575K,Fifa Score,Al Shabab,€9K,9000,575000
+Saudi Arabia,A. Al Dawsari,SA,28,AS,€450K,Fifa Score,Al Hilal,€11K,11000,450000
+Saudi Arabia,N. Mohammed,SA,30,AS,€325K,Fifa Score,Al Taawoun,€6K,6000,325000
+Saudi Arabia,J. Al Bishi,SA,30,AS,€400K,Fifa Score,Al Taawoun,€6K,6000,400000
+Saudi Arabia,A. Al Sulayhim,SA,23,AS,€625K,Fifa Score,Al Shabab,€7K,7000,625000
+Saudi Arabia,Y. Barnawi,SA,23,AS,€575K,Fifa Score,Al Qadisiyah,€4K,4000,575000
+Saudi Arabia,M. Al Najrani,SA,24,AS,€750K,Fifa Score,Al Hilal,€9K,9000,750000
+Saudi Arabia,A. Al Owayshir,SA,26,AS,€500K,Fifa Score,Al Fateh,€6K,6000,500000
+Saudi Arabia,M. Al Fehaid,SA,27,AS,€550K,Fifa Score,Al Fateh,€8K,8000,550000
+Saudi Arabia,Y. Otayn,SA,26,AS,€550K,Fifa Score,Ettifaq FC,€5K,5000,550000
+Saudi Arabia,A. Wailbi,SA,26,AS,€525K,Fifa Score,Al Nassr,€10K,10000,525000
+Saudi Arabia,A. Al Shammari,SA,28,AS,€425K,Fifa Score,Al Raed,€6K,6000,425000
+Saudi Arabia,W. Suwayyid,SA,29,AS,€400K,Fifa Score,Al Faisaly,€7K,7000,400000
+Saudi Arabia,A. Al Mutairi,SA,31,AS,€475K,Fifa Score,Al Fayha,€6K,6000,475000
+Saudi Arabia,A. Al Hafith,SA,24,AS,€725K,Fifa Score,Al Hilal,€8K,8000,725000
+Saudi Arabia,T. Al Absi,SA,24,AS,€625K,Fifa Score,Al Taawoun,€5K,5000,625000
+Saudi Arabia,H. Shaian,SA,28,AS,€375K,Fifa Score,Al Nassr,€8K,8000,375000
+Saudi Arabia,F. Darwish,SA,25,AS,€475K,Fifa Score,Al Hilal,€9K,9000,475000
+Saudi Arabia,E. Sarraj,SA,27,AS,€575K,Fifa Score,Al Faisaly,€10K,10000,575000
+Saudi Arabia,A. Al Enezi,SA,26,AS,€425K,Fifa Score,Al Nassr,€8K,8000,425000
+Saudi Arabia,M. Al Bishi,SA,30,AS,€400K,Fifa Score,Al Faisaly,€7K,7000,400000
+Saudi Arabia,M. Al Harbi,SA,29,AS,€475K,Fifa Score,Al Ahli,€10K,10000,475000
+Saudi Arabia,M. Al Fatil,SA,25,AS,€750K,Fifa Score,Al Ahli,€9K,9000,750000
+Saudi Arabia,A. Ateef,SA,34,AS,€200K,Fifa Score,Al Shabab,€9K,9000,200000
+Saudi Arabia,A. Al Salem,SA,24,AS,€875K,Fifa Score,Al Fayha,€5K,5000,875000
+Saudi Arabia,Y. Al Nakhli,SA,26,AS,€625K,Fifa Score,Al Ittihad,€10K,10000,625000
+Saudi Arabia,R. Sufyani,SA,30,AS,€600K,Fifa Score,Al Ittihad,€10K,10000,600000
+Saudi Arabia,A. Zain,SA,25,AS,€700K,Fifa Score,Al Ahli,€10K,10000,700000
+Saudi Arabia,A. Al Kassar,SA,26,AS,€575K,Fifa Score,Ettifaq FC,€4K,4000,575000
+Saudi Arabia,A. Kurdy,SA,25,AS,€675K,Fifa Score,Al Ahli,€9K,9000,675000
+Saudi Arabia,S. Al Sawadi,SA,24,AS,€875K,Fifa Score,Al Raed,€6K,6000,875000
+Saudi Arabia,Y. Al Salem,SA,32,AS,€525K,Fifa Score,Ettifaq FC,€5K,5000,525000
+Saudi Arabia,A. Al Sahabi,SA,30,AS,€475K,Fifa Score,Al Ahli,€10K,10000,475000
+Saudi Arabia,A. Awaji,SA,27,AS,€675K,Fifa Score,Al Ahli,€10K,10000,675000
+Saudi Arabia,H. Bahebri,SA,24,AS,€825K,Fifa Score,Al Shabab,€8K,8000,825000
+Saudi Arabia,S. Al Muwallad,SA,26,AS,€625K,Fifa Score,Al Ahli,€10K,10000,625000
+Saudi Arabia,M. Abu Radiyah,SA,30,AS,€625K,Fifa Score,Al Ahli,€11K,11000,625000
+Saudi Arabia,T. Bu Haymid,SA,29,AS,€625K,Fifa Score,Al Fayha,€7K,7000,625000
+Saudi Arabia,A. Al Obaid,SA,24,AS,€700K,Fifa Score,Al Qadisiyah,€4K,4000,700000
+Saudi Arabia,A. Al Qarni,SA,33,AS,€325K,Fifa Score,Al Ittihad,€8K,8000,325000
+Saudi Arabia,A. Falatah,SA,33,AS,€290K,Fifa Score,Al Ittihad,€20K,20000,290000
+Saudi Arabia,S. Kariri,SA,36,AS,€100K,Fifa Score,Al Shabab,€13K,13000,100000
+Saudi Arabia,M. Kanno,SA,22,AS,€1.2M,Fifa Score,Al Hilal,€19K,19000,1.2000000
+Saudi Arabia,H. Mahbub,SA,24,AS,€825K,Fifa Score,Al Hilal,€17K,17000,825000
+Saudi Arabia,A. Al Asta,SA,30,AS,€550K,Fifa Score,Al Nassr,€20K,20000,550000
+Saudi Arabia,S. Al Duayyi,SA,24,AS,€900K,Fifa Score,Al Faisaly,€12K,12000,900000
+Saudi Arabia,F. Al Qarni,SA,25,AS,€675K,Fifa Score,Al Ittihad,€15K,15000,675000
+Saudi Arabia,K. Al Ghamdi,SA,29,AS,€575K,Fifa Score,Al Nassr,€21K,21000,575000
+Saudi Arabia,A. Al Ghamdi,SA,22,AS,€1.1M,Fifa Score,Al Ittihad,€21K,21000,1.1000000
+Saudi Arabia,H. Al Raheb,SA,33,AS,€575K,Fifa Score,Al Nassr,€23K,23000,575000
+Saudi Arabia,K. Sharahili,SA,29,AS,€600K,Fifa Score,Al Faisaly,€12K,12000,600000
+Saudi Arabia,A. Al Fraidi,SA,29,AS,€875K,Fifa Score,Al Nassr,€23K,23000,875000
+Saudi Arabia,A. Al Zori,SA,29,AS,€675K,Fifa Score,Al Hilal,€21K,21000,675000
+Saudi Arabia,A. Al Mayoof,SA,30,AS,€675K,Fifa Score,Al Hilal,€16K,16000,675000
+Saudi Arabia,N. Hazazi,SA,28,AS,€1.1M,Fifa Score,Al Taawoun,€15K,15000,1.1000000
+Saudi Arabia,A. Al Ruwaili,SA,30,AS,€775K,Fifa Score,Al Fayha,€12K,12000,775000
+Saudi Arabia,B. Al Nakhli,SA,29,AS,€825K,Fifa Score,Al Ittihad,€21K,21000,825000
+Saudi Arabia,A. Al Faraj,SA,28,AS,€850K,Fifa Score,Al Nassr,€21K,21000,850000
+Saudi Arabia,A. Al Jebreen,SA,27,AS,€875K,Fifa Score,Al Nassr,€20K,20000,875000
+Saudi Arabia,S. Sharahili,SA,27,AS,€875K,Fifa Score,Al Nassr,€20K,20000,875000
+Saudi Arabia,J. Ba Jandouh,SA,24,AS,€1.8M,Fifa Score,Al Ittihad,€20K,20000,1.8000000
+Saudi Arabia,M. Al Buraik,SA,24,AS,€2M,Fifa Score,Al Hilal,€20K,20000,2000000
+Saudi Arabia,M. Al Shalhoub,SA,36,AS,€600K,Fifa Score,Al Hilal,€19K,19000,600000
+Saudi Arabia,Y. Al Shehri,SA,27,AS,€1.9M,Fifa Score,Al Nassr,€26K,26000,1.9000000
+Saudi Arabia,W. Bakhashwain,SA,27,AS,€1.7M,Fifa Score,Al Ahli,€24K,24000,1.7000000
+Saudi Arabia,M. Fallatah,SA,29,AS,€1.8M,Fifa Score,Al Hilal,€29K,29000,1.8000000
+Saudi Arabia,H. Fallatah,SA,31,AS,€1.2M,Fifa Score,Al Fayha,€14K,14000,1.2000000
+Saudi Arabia,N. Al Shamrani,SA,33,AS,€1.1M,Fifa Score,Al Shabab,€25K,25000,1.1000000
+Saudi Arabia,M. Al Bassas,SA,24,AS,€2.3M,Fifa Score,Al Ahli,€23K,23000,2.3000000
+Saudi Arabia,A. Ateef,SA,24,AS,€2.8M,Fifa Score,Al Hilal,€20K,20000,2.8000000
+Saudi Arabia,H. Al Moqahwi,SA,29,AS,€2.3M,Fifa Score,Al Ahli,€27K,27000,2.3000000
+Saudi Arabia,Y. Al Mosailem,SA,33,AS,€1.2M,Fifa Score,Al Ahli,€19K,19000,1.2000000
+Saudi Arabia,A. Al Khaibari,SA,31,AS,€1.6M,Fifa Score,Al Hilal,€24K,24000,1.6000000
+Saudi Arabia,A. Asiri,SA,25,AS,€2.4M,Fifa Score,Al Ittihad,€23K,23000,2.4000000
+Saudi Arabia,S. Al Dawsari,SA,25,AS,€3.4M,Fifa Score,Al Hilal,€25K,25000,3.4000000
+Saudi Arabia,I. Ghaleb,SA,26,AS,€3M,Fifa Score,Al Nassr,€24K,24000,3000000
+Saudi Arabia,A. Aseri,SA,23,AS,€4.6M,Fifa Score,Al Ahli,€23K,23000,4.6000000
+Saudi Arabia,M. Jahfali,SA,26,AS,€3.2M,Fifa Score,Al Hilal,€24K,24000,3.2000000
+Saudi Arabia,M. Al Owais,SA,25,AS,€3.9M,Fifa Score,Al Ahli,€25K,25000,3.9000000
+Saudi Arabia,S. Muwashar,SA,28,AS,€4M,Fifa Score,Al Ahli,€38K,38000,4000000
+Saudi Arabia,M. Al Sahlawi,SA,30,AS,€3.9M,Fifa Score,Al Nassr,€39K,39000,3.9000000
+Saudi Arabia,T. Al Jassam,SA,32,AS,€3.2M,Fifa Score,Al Ahli,€33K,33000,3.2000000
+Saudi Arabia,Y. Al Shahrani,SA,25,AS,€5.5M,Fifa Score,Al Hilal,€32K,32000,5.5000000
+Saudi Arabia,F. Al Muwallad,SA,22,AS,€8.5M,Fifa Score,Al Ittihad,€32K,32000,8.5000000
+Saudi Arabia,S. Al Faraj,SA,27,AS,€6M,Fifa Score,Al Hilal,€36K,36000,6000000
+Saudi Arabia,M. Hawsawi,SA,25,AS,€6.5M,Fifa Score,Al Ahli,€32K,32000,6.5000000
+Saudi Arabia,O. Othman,SA,31,AS,€3.8M,Fifa Score,Al Nassr,€33K,33000,3.8000000
+Saudi Arabia,O. Hawsawi,SA,33,AS,€2.7M,Fifa Score,Al Hilal,€33K,33000,2.7000000
+Saudi Arabia,N. Al Abed,SA,27,AS,€8M,Fifa Score,Al Hilal,€43K,43000,8000000
+Sri Lanka,A. Razeek,LK,22,AS,€325K,Fifa Score,Rot-Weiß Erfurt,€1K,1000,325000
+Thailand,W. Jakkit,TH,20,AS,€130K,Fifa Score,F.C. Tokyo,€1K,1000,130000
+Thailand,C. Songkrasin,TH,23,AS,€675K,Fifa Score,Hokkaido Consadole Sapporo,€2K,2000,675000
+Turkey,N. Bellikli,TR,18,AS,€80K,Fifa Score,AFC Wimbledon,€1K,1000,80000
+Turkey,M. Yıldız,TR,21,AS,€60K,Fifa Score,Medicana Sivasspor,€1K,1000,60000
+Turkey,A. Yiğiter,TR,17,AS,€100K,Fifa Score,Fenerbahçe SK,€2K,2000,100000
+Turkey,I. Ünal,TR,19,AS,€90K,Fifa Score,Alanyaspor,€1K,1000,90000
+Turkey,C. Kahraman,TR,18,AS,€180K,Fifa Score,1. FC Union Berlin,€3K,3000,180000
+Turkey,E. Selen,TR,22,AS,€110K,Fifa Score,Evkur Yeni Malatyaspor,€1K,1000,110000
+Turkey,F. Gürden,TR,18,AS,€160K,Fifa Score,Evkur Yeni Malatyaspor,€1K,1000,160000
+Turkey,M. Karaahmet,TR,17,AS,€180K,Fifa Score,Karlsruher SC,€1K,1000,180000
+Turkey,M. İnan,TR,17,AS,€180K,Fifa Score,Antalyaspor,€2K,2000,180000
+Turkey,T. Tarcan,TR,19,AS,€140K,Fifa Score,Sint-Truidense VV,€1K,1000,140000
+Turkey,D. Barlaser,TR,20,AS,€230K,Fifa Score,Newcastle United,€6K,6000,230000
+Turkey,V. Karakuş,TR,19,AS,€180K,Fifa Score,Kayserispor,€1K,1000,180000
+Turkey,M. Yandaş,TR,22,AS,€150K,Fifa Score,Medicana Sivasspor,€2K,2000,150000
+Turkey,O. Güçtekin,TR,18,AS,€190K,Fifa Score,Fenerbahçe SK,€4K,4000,190000
+Turkey,Y. Mersin,TR,22,AS,€110K,Fifa Score,Crawley Town,€1K,1000,110000
+Turkey,R. Öktem,TR,20,AS,€180K,Fifa Score,Alanyaspor,€2K,2000,180000
+Turkey,O. Kolak,TR,20,AS,€160K,Fifa Score,Antalyaspor,€2K,2000,160000
+Turkey,F. Canlı,TR,20,AS,€170K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,170000
+Turkey,K. Akca,TR,23,AS,€140K,Fifa Score,Fortuna Düsseldorf,€3K,3000,140000
+Turkey,H. Yılmaz,TR,19,AS,€190K,Fifa Score,Antalyaspor,€2K,2000,190000
+Turkey,T. Demirtaş,TR,23,AS,€130K,Fifa Score,Gençlerbirliği SK,€2K,2000,130000
+Turkey,M. Kula,TR,22,AS,€150K,Fifa Score,Kasimpaşa SK,€2K,2000,150000
+Turkey,H. Barış,TR,23,AS,€150K,Fifa Score,Göztepe,€2K,2000,150000
+Turkey,I. Güven,TR,23,AS,€170K,Fifa Score,Atiker Konyaspor,€2K,2000,170000
+Turkey,M. Sevimler,TR,18,AS,€260K,Fifa Score,Alanyaspor,€1K,1000,260000
+Turkey,H. Emiroğlu,TR,20,AS,€250K,Fifa Score,Alanyaspor,€2K,2000,250000
+Turkey,B. Kavlak,TR,20,AS,€190K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,190000
+Turkey,O. Bala,TR,19,AS,€325K,Fifa Score,İstanbul Başakşehir FK,€2K,2000,325000
+Turkey,F. Yiğit,TR,22,AS,€220K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,220000
+Turkey,O. Ayın,TR,20,AS,€250K,Fifa Score,Medicana Sivasspor,€2K,2000,250000
+Turkey,M. Demir,TR,19,AS,€400K,Fifa Score,Hannover 96,€3K,3000,400000
+Turkey,T. Uzan,TR,23,AS,€325K,Fifa Score,Rot-Weiß Erfurt,€1K,1000,325000
+Turkey,O. Saraçoğlu,TR,19,AS,€450K,Fifa Score,İstanbul Başakşehir FK,€2K,2000,450000
+Turkey,K. Yaşar,TR,22,AS,€210K,Fifa Score,Kasimpaşa SK,€1K,1000,210000
+Turkey,A. Koçaklı,TR,18,AS,€325K,Fifa Score,Alanyaspor,€1K,1000,325000
+Turkey,A. Köse,TR,20,AS,€400K,Fifa Score,Fenerbahçe SK,€7K,7000,400000
+Turkey,H. Bilgiç,TR,24,AS,€230K,Fifa Score,Medicana Sivasspor,€2K,2000,230000
+Turkey,H. Özkan,TR,19,AS,€325K,Fifa Score,KV Oostende,€1K,1000,325000
+Turkey,F. Zorba,TR,19,AS,€400K,Fifa Score,VfL Osnabrück,€1K,1000,400000
+Turkey,O. Ökke,TR,21,AS,€325K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,325000
+Turkey,F. Pekşen,TR,21,AS,€325K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,325000
+Turkey,F. Çakır,TR,22,AS,€240K,Fifa Score,İstanbul Başakşehir FK,€2K,2000,240000
+Turkey,S. Mutlu,TR,20,AS,€290K,Fifa Score,Medicana Sivasspor,€2K,2000,290000
+Turkey,M. Işık,TR,20,AS,€300K,Fifa Score,Medicana Sivasspor,€2K,2000,300000
+Turkey,Y. Çetin,TR,20,AS,€290K,Fifa Score,Gençlerbirliği SK,€2K,2000,290000
+Turkey,O. Ural,TR,20,AS,€290K,Fifa Score,Kasimpaşa SK,€2K,2000,290000
+Turkey,B. Turan,TR,20,AS,€325K,Fifa Score,Kasimpaşa SK,€2K,2000,325000
+Turkey,A. Karnuçu,TR,17,AS,€375K,Fifa Score,Galatasaray SK,€3K,3000,375000
+Turkey,Y. Çelik,TR,21,AS,€350K,Fifa Score,Antalyaspor,€3K,3000,350000
+Turkey,U. Gündoğan,TR,27,AS,€280K,Fifa Score,Galatasaray SK,€9K,9000,280000
+Turkey,A. Babacan,TR,17,AS,€500K,Fifa Score,Galatasaray SK,€5K,5000,500000
+Turkey,R. Çağıran,TR,22,AS,€325K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,325000
+Turkey,F. Sucsuz,TR,21,AS,€350K,Fifa Score,FC Carl Zeiss Jena,€1K,1000,350000
+Turkey,E. Coşkun,TR,23,AS,€325K,Fifa Score,Göztepe,€3K,3000,325000
+Turkey,S. Karakoç,TR,20,AS,€550K,Fifa Score,Fenerbahçe SK,€8K,8000,550000
+Turkey,H. Adıgüzel,TR,17,AS,€500K,Fifa Score,Akhisar Belediyespor,€2K,2000,500000
+Turkey,S. Polat,TR,20,AS,€525K,Fifa Score,Atiker Konyaspor,€3K,3000,525000
+Turkey,E. İşcan,TR,25,AS,€280K,Fifa Score,Galatasaray SK,€7K,7000,280000
+Turkey,S. Çiftpınar,TR,24,AS,€325K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,325000
+Turkey,E. Kılınç,TR,22,AS,€525K,Fifa Score,Medicana Sivasspor,€3K,3000,525000
+Turkey,A. Dadakdeniz,TR,17,AS,€400K,Fifa Score,Bursaspor,€1K,1000,400000
+Turkey,O. Kurt,TR,22,AS,€400K,Fifa Score,SC Fortuna Köln,€1K,1000,400000
+Turkey,D. Erdoğan,TR,20,AS,€650K,Fifa Score,LASK Linz,€3K,3000,650000
+Turkey,E. Şehit,TR,21,AS,€525K,Fifa Score,Gençlerbirliği SK,€8K,8000,525000
+Turkey,H. Bilal,TR,19,AS,€525K,Fifa Score,Kasimpaşa SK,€2K,2000,525000
+Turkey,C. Aydin,TR,23,AS,€350K,Fifa Score,Kayserispor,€2K,2000,350000
+Turkey,T. Ciğerci,TR,22,AS,€475K,Fifa Score,SpVgg Greuther Fürth,€2K,2000,475000
+Turkey,O. Ayık,TR,27,AS,€375K,Fifa Score,Akhisar Belediyespor,€4K,4000,375000
+Turkey,A. Türkaslan,TR,22,AS,€375K,Fifa Score,Osmanlıspor,€2K,2000,375000
+Turkey,T. Kaçar,TR,23,AS,€500K,Fifa Score,Osmanlıspor,€3K,3000,500000
+Turkey,H. Akbunar,TR,23,AS,€525K,Fifa Score,Göztepe,€3K,3000,525000
+Turkey,M. Şengezer,TR,20,AS,€500K,Fifa Score,Bursaspor,€2K,2000,500000
+Turkey,O. Taşdelen,TR,30,AS,€270K,Fifa Score,Akhisar Belediyespor,€3K,3000,270000
+Turkey,U. Yuvakuran,TR,19,AS,€650K,Fifa Score,Beşiktaş JK,€3K,3000,650000
+Turkey,H. Demir,TR,19,AS,€475K,Fifa Score,Kasimpaşa SK,€2K,2000,475000
+Turkey,M. Yıldırım,TR,30,AS,€350K,Fifa Score,Evkur Yeni Malatyaspor,€3K,3000,350000
+Turkey,E. Ersu,TR,23,AS,€400K,Fifa Score,Fenerbahçe SK,€7K,7000,400000
+Turkey,I. İşçi,TR,21,AS,€450K,Fifa Score,Medicana Sivasspor,€2K,2000,450000
+Turkey,E. Özbir,TR,27,AS,€300K,Fifa Score,Evkur Yeni Malatyaspor,€2K,2000,300000
+Turkey,C. Tosun,TR,17,AS,€725K,Fifa Score,Trabzonspor,€3K,3000,725000
+Turkey,F. Aksoy,TR,19,AS,€575K,Fifa Score,Beşiktaş JK,€4K,4000,575000
+Turkey,U. Çakır,TR,21,AS,€475K,Fifa Score,Trabzonspor,€4K,4000,475000
+Turkey,F. Soyalp,TR,22,AS,€650K,Fifa Score,Bursaspor,€5K,5000,650000
+Turkey,H. Artarslan,TR,23,AS,€475K,Fifa Score,Trabzonspor,€7K,7000,475000
+Turkey,D. Kılıç,TR,21,AS,€775K,Fifa Score,Göztepe,€4K,4000,775000
+Turkey,Y. Aygün,TR,21,AS,€450K,Fifa Score,Göztepe,€3K,3000,450000
+Turkey,T. Bingöl,TR,24,AS,€600K,Fifa Score,Göztepe,€5K,5000,600000
+Turkey,O. Çelik,TR,25,AS,€450K,Fifa Score,Kardemir Karabükspor,€5K,5000,450000
+Turkey,O. Özenç,TR,24,AS,€425K,Fifa Score,Antalyaspor,€3K,3000,425000
+Turkey,M. Akça,TR,26,AS,€400K,Fifa Score,Evkur Yeni Malatyaspor,€4K,4000,400000
+Turkey,A. Çeviker,TR,27,AS,€450K,Fifa Score,Akhisar Belediyespor,€5K,5000,450000
+Turkey,S. Aygüneş,TR,26,AS,€550K,Fifa Score,SV Sandhausen,€3K,3000,550000
+Turkey,A. Ömür,TR,18,AS,€750K,Fifa Score,Trabzonspor,€5K,5000,750000
+Turkey,Y. Güveli,TR,19,AS,€875K,Fifa Score,Fenerbahçe SK,€8K,8000,875000
+Turkey,K. Baysal,TR,21,AS,€625K,Fifa Score,Getafe CF,€5K,5000,625000
+Turkey,O. Atasayar,TR,22,AS,€625K,Fifa Score,Bursaspor,€4K,4000,625000
+Turkey,M. Durmuş,TR,20,AS,€800K,Fifa Score,Göztepe,€4K,4000,800000
+Turkey,B. Atik,TR,22,AS,€675K,Fifa Score,1. FC Kaiserslautern,€8K,8000,675000
+Turkey,E. Ataseven,TR,24,AS,€500K,Fifa Score,Akhisar Belediyespor,€4K,4000,500000
+Turkey,A. Babacan,TR,19,AS,€675K,Fifa Score,Akhisar Belediyespor,€3K,3000,675000
+Turkey,A. Sevinç,TR,18,AS,€925K,Fifa Score,Trabzonspor,€6K,6000,925000
+Turkey,M. Bayır,TR,28,AS,€425K,Fifa Score,Osmanlıspor,€5K,5000,425000
+Turkey,G. Güzel,TR,30,AS,€500K,Fifa Score,Medicana Sivasspor,€4K,4000,500000
+Turkey,S. Deliktaş,TR,30,AS,€525K,Fifa Score,Kardemir Karabükspor,€5K,5000,525000
+Turkey,E. Birniçan,TR,28,AS,€375K,Fifa Score,Kasimpaşa SK,€4K,4000,375000
+Turkey,M. Altıntaş,TR,21,AS,€850K,Fifa Score,Evkur Yeni Malatyaspor,€8K,8000,850000
+Turkey,E. Keleş,TR,30,AS,€525K,Fifa Score,Medicana Sivasspor,€5K,5000,525000
+Turkey,E. Güral,TR,28,AS,€550K,Fifa Score,Antalyaspor,€6K,6000,550000
+Turkey,H. Arslan,TR,28,AS,€450K,Fifa Score,Medicana Sivasspor,€4K,4000,450000
+Turkey,S. Tekerci,TR,23,AS,€750K,Fifa Score,FSV Zwickau,€1K,1000,750000
+Turkey,A. Uludağ,TR,26,AS,€525K,Fifa Score,Gençlerbirliği SK,€5K,5000,525000
+Turkey,T. Acar,TR,31,AS,€325K,Fifa Score,Medicana Sivasspor,€3K,3000,325000
+Turkey,B. Dabanli,TR,27,AS,€650K,Fifa Score,Rot-Weiß Erfurt,€1K,1000,650000
+Turkey,U. Zeybek,TR,22,AS,€975K,Fifa Score,Fenerbahçe SK,€14K,14000,975000
+Turkey,S. Bakış,TR,23,AS,€925K,Fifa Score,Bursaspor,€5K,5000,925000
+Turkey,H. Yılmaz,TR,33,AS,€325K,Fifa Score,Alanyaspor,€3K,3000,325000
+Turkey,M. Çelik,TR,27,AS,€675K,Fifa Score,Akhisar Belediyespor,€5K,5000,675000
+Turkey,C. Özdemir,TR,24,AS,€800K,Fifa Score,Medicana Sivasspor,€4K,4000,800000
+Turkey,T. Çamdal,TR,26,AS,€625K,Fifa Score,Galatasaray SK,€13K,13000,625000
+Turkey,R. Şimşek,TR,26,AS,€625K,Fifa Score,Medicana Sivasspor,€4K,4000,625000
+Turkey,B. Parlak,TR,27,AS,€600K,Fifa Score,Alanyaspor,€4K,4000,600000
+Turkey,I. Depe,TR,24,AS,€825K,Fifa Score,Kardemir Karabükspor,€4K,4000,825000
+Turkey,J. Karacan,TR,28,AS,€650K,Fifa Score,Bolton Wanderers,€11K,11000,650000
+Turkey,M. Taş,TR,26,AS,€700K,Fifa Score,Gençlerbirliği SK,€5K,5000,700000
+Turkey,B. Emir,TR,29,AS,€475K,Fifa Score,Alanyaspor,€4K,4000,475000
+Turkey,T. Yalçıner,TR,30,AS,€475K,Fifa Score,Alanyaspor,€4K,4000,475000
+Turkey,A. Kara,TR,24,AS,€750K,Fifa Score,Evkur Yeni Malatyaspor,€7K,7000,750000
+Turkey,O. Özdemir,TR,22,AS,€750K,Fifa Score,SG Sonnenhof Großaspach,€1K,1000,750000
+Turkey,F. Görgülü,TR,25,AS,€625K,Fifa Score,Kardemir Karabükspor,€4K,4000,625000
+Turkey,H. Aslantaş,TR,31,AS,€500K,Fifa Score,Kardemir Karabükspor,€8K,8000,500000
+Turkey,R. Köse,TR,29,AS,€525K,Fifa Score,Kasimpaşa SK,€7K,7000,525000
+Turkey,B. Körk,TR,37,AS,€50K,Fifa Score,Akhisar Belediyespor,€5K,5000,50000
+Turkey,B. Özcan,TR,19,AS,€1.3M,Fifa Score,VfB Stuttgart,€8K,8000,1.3000000
+Turkey,G. Güvenç,TR,25,AS,€725K,Fifa Score,Göztepe,€8K,8000,725000
+Turkey,A. Turan,TR,25,AS,€825K,Fifa Score,Kayserispor,€8K,8000,825000
+Turkey,O. Şam,TR,31,AS,€500K,Fifa Score,Gençlerbirliği SK,€10K,10000,500000
+Turkey,M. Akbaş,TR,27,AS,€650K,Fifa Score,Trabzonspor,€16K,16000,650000
+Turkey,S. Özkan,TR,30,AS,€725K,Fifa Score,Gençlerbirliği SK,€11K,11000,725000
+Turkey,S. Sararer,TR,27,AS,€800K,Fifa Score,SpVgg Greuther Fürth,€8K,8000,800000
+Turkey,H. Pehlivan,TR,23,AS,€825K,Fifa Score,Gençlerbirliği SK,€9K,9000,825000
+Turkey,E. Tozlu,TR,26,AS,€900K,Fifa Score,Evkur Yeni Malatyaspor,€10K,10000,900000
+Turkey,E. Nefiz,TR,22,AS,€1.2M,Fifa Score,Alanyaspor,€8K,8000,1.2000000
+Turkey,F. Öztorun,TR,30,AS,€550K,Fifa Score,Atiker Konyaspor,€10K,10000,550000
+Turkey,N. Çiftçi,TR,25,AS,€925K,Fifa Score,Plymouth Argyle,€30K,30000,925000
+Turkey,H. Özmert,TR,32,AS,€450K,Fifa Score,İstanbul Başakşehir FK,€13K,13000,450000
+Turkey,C. Alkılıç,TR,29,AS,€575K,Fifa Score,Alanyaspor,€9K,9000,575000
+Turkey,K. Altınay,TR,25,AS,€800K,Fifa Score,Osmanlıspor,€10K,10000,800000
+Turkey,F. Kaplan,TR,28,AS,€625K,Fifa Score,Antalyaspor,€9K,9000,625000
+Turkey,M. Nizam,TR,26,AS,€750K,Fifa Score,Antalyaspor,€10K,10000,750000
+Turkey,H. Çinemre,TR,23,AS,€925K,Fifa Score,Göztepe,€9K,9000,925000
+Turkey,I. Doğan,TR,26,AS,€750K,Fifa Score,Kardemir Karabükspor,€8K,8000,750000
+Turkey,F. Öztürk,TR,30,AS,€575K,Fifa Score,Akhisar Belediyespor,€8K,8000,575000
+Turkey,B. Yardımcı,TR,24,AS,€900K,Fifa Score,Bursaspor,€9K,9000,900000
+Turkey,T. Şahin,TR,29,AS,€875K,Fifa Score,Evkur Yeni Malatyaspor,€10K,10000,875000
+Turkey,N. Şahin,TR,27,AS,€725K,Fifa Score,Gençlerbirliği SK,€8K,8000,725000
+Turkey,Z. Yavru,TR,25,AS,€875K,Fifa Score,Gençlerbirliği SK,€10K,10000,875000
+Turkey,K. Keleş,TR,29,AS,€675K,Fifa Score,Akhisar Belediyespor,€11K,11000,675000
+Turkey,A. Demircan,TR,26,AS,€750K,Fifa Score,Atiker Konyaspor,€8K,8000,750000
+Turkey,A. Karaer,TR,29,AS,€675K,Fifa Score,Osmanlıspor,€11K,11000,675000
+Turkey,F. Özçal,TR,26,AS,€1M,Fifa Score,Bursaspor,€11K,11000,1000000
+Turkey,Z. Erdal,TR,29,AS,€675K,Fifa Score,Medicana Sivasspor,€9K,9000,675000
+Turkey,M. Duruer,TR,29,AS,€875K,Fifa Score,Gençlerbirliği SK,€12K,12000,875000
+Turkey,B. Başdaş,TR,27,AS,€750K,Fifa Score,Kardemir Karabükspor,€8K,8000,750000
+Turkey,U. Çiftçi,TR,25,AS,€925K,Fifa Score,Gençlerbirliği SK,€10K,10000,925000
+Turkey,U. Bulut,TR,34,AS,€475K,Fifa Score,Kayserispor,€10K,10000,475000
+Turkey,K. Zengin,TR,32,AS,€500K,Fifa Score,Kardemir Karabükspor,€8K,8000,500000
+Turkey,V. Sarı,TR,28,AS,€725K,Fifa Score,Kasimpaşa SK,€9K,9000,725000
+Turkey,U. Ceylan,TR,31,AS,€550K,Fifa Score,Alanyaspor,€7K,7000,550000
+Turkey,E. Kaş,TR,25,AS,€1.1M,Fifa Score,Kayserispor,€8K,8000,1.1000000
+Turkey,E. Ersoy,TR,20,AS,€1.8M,Fifa Score,Bursaspor,€8K,8000,1.8000000
+Turkey,A. Karabulut,TR,29,AS,€1M,Fifa Score,Antalyaspor,€12K,12000,1000000
+Turkey,A. Vural,TR,26,AS,€875K,Fifa Score,Medicana Sivasspor,€7K,7000,875000
+Turkey,O. Bayram,TR,25,AS,€1.1M,Fifa Score,Akhisar Belediyespor,€10K,10000,1.1000000
+Turkey,S. Bolat,TR,28,AS,€750K,Fifa Score,Royal Antwerp FC,€7K,7000,750000
+Turkey,A. Erdem,TR,28,AS,€825K,Fifa Score,İstanbul Başakşehir FK,€14K,14000,825000
+Turkey,C. Osmanpaşa,TR,29,AS,€825K,Fifa Score,Akhisar Belediyespor,€11K,11000,825000
+Turkey,V. Bora,TR,22,AS,€1.6M,Fifa Score,Atiker Konyaspor,€10K,10000,1.6000000
+Turkey,U. Uçar,TR,30,AS,€750K,Fifa Score,İstanbul Başakşehir FK,€13K,13000,750000
+Turkey,V. Fındıklı,TR,26,AS,€1.1M,Fifa Score,Atiker Konyaspor,€10K,10000,1.1000000
+Turkey,K. Çörekçi,TR,25,AS,€1.1M,Fifa Score,Trabzonspor,€15K,15000,1.1000000
+Turkey,S. Aytaç,TR,25,AS,€1.9M,Fifa Score,Antalyaspor,€12K,12000,1.9000000
+Turkey,S. Dursun,TR,25,AS,€1.8M,Fifa Score,Antalyaspor,€12K,12000,1.8000000
+Turkey,S. Çinaz,TR,31,AS,€1.2M,Fifa Score,Kayserispor,€10K,10000,1.2000000
+Turkey,A. Turan,TR,33,AS,€725K,Fifa Score,Atiker Konyaspor,€12K,12000,725000
+Turkey,E. Taşdemir,TR,21,AS,€2.1M,Fifa Score,Bursaspor,€9K,9000,2.1000000
+Turkey,A. Durak,TR,30,AS,€1.6M,Fifa Score,Kasimpaşa SK,€11K,11000,1.6000000
+Turkey,Y. Kurtuluş,TR,31,AS,€1.5M,Fifa Score,Antalyaspor,€13K,13000,1.5000000
+Turkey,K. Kanatsızkuş,TR,20,AS,€3.9M,Fifa Score,Bursaspor,€12K,12000,3.9000000
+Turkey,M. Yıldırım,TR,26,AS,€1.5M,Fifa Score,Kayserispor,€8K,8000,1.5000000
+Turkey,E. Karaca,TR,27,AS,€2M,Fifa Score,Alanyaspor,€11K,11000,2000000
+Turkey,M. Yumlu,TR,29,AS,€1.4M,Fifa Score,Akhisar Belediyespor,€13K,13000,1.4000000
+Turkey,I. Konuk,TR,29,AS,€1.4M,Fifa Score,Bursaspor,€13K,13000,1.4000000
+Turkey,E. Mor,TR,19,AS,€3.8M,Fifa Score,RC Celta de Vigo,€9K,9000,3.8000000
+Turkey,S. Ay,TR,25,AS,€1.9M,Fifa Score,Atiker Konyaspor,€12K,12000,1.9000000
+Turkey,M. Batdal,TR,31,AS,€1.6M,Fifa Score,İstanbul Başakşehir FK,€19K,19000,1.6000000
+Turkey,S. Sarıoğlu,TR,32,AS,€975K,Fifa Score,Göztepe,€12K,12000,975000
+Turkey,A. Şahin,TR,39,AS,€120K,Fifa Score,Kardemir Karabükspor,€5K,5000,120000
+Turkey,S. Aydoğdu,TR,26,AS,€2.1M,Fifa Score,Akhisar Belediyespor,€13K,13000,2.1000000
+Turkey,O. Adın,TR,31,AS,€1.6M,Fifa Score,Akhisar Belediyespor,€13K,13000,1.6000000
+Turkey,S. Yıldırım,TR,27,AS,€2.5M,Fifa Score,Bursaspor,€13K,13000,2.5000000
+Turkey,H. Arıkan,TR,34,AS,€950K,Fifa Score,Osmanlıspor,€10K,10000,950000
+Turkey,M. Yüce,TR,32,AS,€1.4M,Fifa Score,Bursaspor,€12K,12000,1.4000000
+Turkey,Z. Yıldırım,TR,26,AS,€2.5M,Fifa Score,Antalyaspor,€12K,12000,2.5000000
+Turkey,B. Kısa,TR,34,AS,€1.2M,Fifa Score,Bursaspor,€13K,13000,1.2000000
+Turkey,K. Ayhan,TR,22,AS,€3M,Fifa Score,Fortuna Düsseldorf,€15K,15000,3000000
+Turkey,K. Günter,TR,22,AS,€2.8M,Fifa Score,Galatasaray SK,€28K,28000,2.8000000
+Turkey,M. Günok,TR,28,AS,€1.9M,Fifa Score,İstanbul Başakşehir FK,€14K,14000,1.9000000
+Turkey,S. Kurtuluş,TR,29,AS,€1.8M,Fifa Score,Bursaspor,€13K,13000,1.8000000
+Turkey,C. Gönen,TR,29,AS,€1.8M,Fifa Score,Málaga CF,€13K,13000,1.8000000
+Turkey,E. Başsan,TR,25,AS,€3M,Fifa Score,Galatasaray SK,€34K,34000,3000000
+Turkey,A. Büyük,TR,29,AS,€2.4M,Fifa Score,Evkur Yeni Malatyaspor,€13K,13000,2.4000000
+Turkey,A. Özek,TR,29,AS,€2.3M,Fifa Score,Gençlerbirliği SK,€14K,14000,2.3000000
+Turkey,E. Bekdemir,TR,25,AS,€2.8M,Fifa Score,Osmanlıspor,€13K,13000,2.8000000
+Turkey,M. Güven,TR,29,AS,€2.4M,Fifa Score,Osmanlıspor,€13K,13000,2.4000000
+Turkey,O. Şişmanoğlu,TR,27,AS,€3.3M,Fifa Score,Göztepe,€14K,14000,3.3000000
+Turkey,C. Gülselam,TR,29,AS,€2.4M,Fifa Score,Kardemir Karabükspor,€11K,11000,2.4000000
+Turkey,A. Nukan,TR,23,AS,€3.7M,Fifa Score,Beşiktaş JK,€28K,28000,3.7000000
+Turkey,O. Hurmacı,TR,30,AS,€2.9M,Fifa Score,Osmanlıspor,€13K,13000,2.9000000
+Turkey,N. Çürüksu,TR,32,AS,€1.8M,Fifa Score,Osmanlıspor,€12K,12000,1.8000000
+Turkey,S. Şahin,TR,36,AS,€425K,Fifa Score,Göztepe,€9K,9000,425000
+Turkey,G. Vural,TR,29,AS,€3M,Fifa Score,Kayserispor,€12K,12000,3000000
+Turkey,E. Şahin,TR,22,AS,€4.2M,Fifa Score,FC St. Pauli,€12K,12000,4.2000000
+Turkey,A. Oğuz,TR,24,AS,€3.4M,Fifa Score,Gençlerbirliği SK,€10K,10000,3.4000000
+Turkey,K. Karaman,TR,23,AS,€4.1M,Fifa Score,Hannover 96,€23K,23000,4.1000000
+Turkey,O. Çınar,TR,21,AS,€4.4M,Fifa Score,Beşiktaş JK,€24K,24000,4.4000000
+Turkey,M. Pektemek,TR,28,AS,€3.2M,Fifa Score,Beşiktaş JK,€35K,35000,3.2000000
+Turkey,I. Köybaşı,TR,27,AS,€3.3M,Fifa Score,Fenerbahçe SK,€51K,51000,3.3000000
+Turkey,K. Frei,TR,23,AS,€5.5M,Fifa Score,İstanbul Başakşehir FK,€22K,22000,5.5000000
+Turkey,T. Zengin,TR,33,AS,€2M,Fifa Score,Beşiktaş JK,€32K,32000,2000000
+Turkey,Y. Ayhan,TR,35,AS,€950K,Fifa Score,Evkur Yeni Malatyaspor,€10K,10000,950000
+Turkey,E. Korkmaz,TR,34,AS,€1.2M,Fifa Score,İstanbul Başakşehir FK,€23K,23000,1.2000000
+Turkey,D. Kadah,TR,31,AS,€3.5M,Fifa Score,Antalyaspor,€19K,19000,3.5000000
+Turkey,Y. Erdoğan,TR,24,AS,€5M,Fifa Score,Bursaspor,€16K,16000,5000000
+Turkey,N. Uysal,TR,26,AS,€4M,Fifa Score,Beşiktaş JK,€40K,40000,4000000
+Turkey,M. Tekdemir,TR,29,AS,€3.1M,Fifa Score,İstanbul Başakşehir FK,€24K,24000,3.1000000
+Turkey,S. Kaya,TR,26,AS,€4.2M,Fifa Score,Sparta Praha,€1K,1000,4.2000000
+Turkey,B. Başaçıkoğlu,TR,22,AS,€5.5M,Fifa Score,Feyenoord,€15K,15000,5.5000000
+Turkey,S. Gümüş,TR,23,AS,€5.5M,Fifa Score,Galatasaray SK,€43K,43000,5.5000000
+Turkey,E. Gülüm,TR,30,AS,€4.2M,Fifa Score,Adelaide United,€7K,7000,4.2000000
+Turkey,S. Uçan,TR,23,AS,€8M,Fifa Score,FC Sion,€48K,48000,8000000
+Turkey,E. Ünal,TR,20,AS,€9M,Fifa Score,Villarreal CF,€25K,25000,9000000
+Turkey,A. Çamdalı,TR,33,AS,€2.3M,Fifa Score,Atiker Konyaspor,€17K,17000,2.3000000
+Turkey,Y. Yazıcı,TR,20,AS,€8.5M,Fifa Score,Trabzonspor,€23K,23000,8.5000000
+Turkey,H. Balta,TR,34,AS,€1.7M,Fifa Score,Galatasaray SK,€45K,45000,1.7000000
+Turkey,S. Aziz,TR,26,AS,€6M,Fifa Score,Galatasaray SK,€45K,45000,6000000
+Turkey,M. Demir,TR,25,AS,€7M,Fifa Score,Medicana Sivasspor,€16K,16000,7000000
+Turkey,C. Söyüncü,TR,21,AS,€8M,Fifa Score,SC Freiburg,€17K,17000,8000000
+Turkey,G. Karadeniz,TR,37,AS,€1.9M,Fifa Score,Rubin Kazan,€30K,30000,1.9000000
+Turkey,M. Çağıran,TR,24,AS,€6.5M,Fifa Score,Osmanlıspor,€15K,15000,6.5000000
+Turkey,U. Demirok,TR,28,AS,€4.6M,Fifa Score,Trabzonspor,€28K,28000,4.6000000
+Turkey,I. Kahveci,TR,21,AS,€8M,Fifa Score,İstanbul Başakşehir FK,€19K,19000,8000000
+Turkey,C. Ünder,TR,19,AS,€8.5M,Fifa Score,Roma,€29K,29000,8.5000000
+Turkey,M. Erdinç,TR,30,AS,€5.5M,Fifa Score,İstanbul Başakşehir FK,€27K,27000,5.5000000
+Turkey,T. Torun,TR,27,AS,€6M,Fifa Score,İstanbul Başakşehir FK,€25K,25000,6000000
+Turkey,E. Albayrak,TR,26,AS,€5.5M,Fifa Score,Atiker Konyaspor,€17K,17000,5.5000000
+Turkey,A. Çalık,TR,23,AS,€6.5M,Fifa Score,Galatasaray SK,€39K,39000,6.5000000
+Turkey,O. Şahan,TR,30,AS,€5.5M,Fifa Score,Trabzonspor,€30K,30000,5.5000000
+Turkey,T. Ciğerci,TR,25,AS,€6M,Fifa Score,Galatasaray SK,€43K,43000,6000000
+Turkey,S. Kırıntılı,TR,32,AS,€3.2M,Fifa Score,Atiker Konyaspor,€14K,14000,3.2000000
+Turkey,E. Akbaba,TR,24,AS,€7.5M,Fifa Score,Alanyaspor,€13K,13000,7.5000000
+Turkey,Y. Öztekin,TR,30,AS,€5.5M,Fifa Score,Galatasaray SK,€50K,50000,5.5000000
+Turkey,H. Tekin,TR,28,AS,€5.5M,Fifa Score,Bursaspor,€15K,15000,5.5000000
+Turkey,D. Türüç,TR,24,AS,€9M,Fifa Score,Kayserispor,€13K,13000,9000000
+Turkey,S. Gürler,TR,25,AS,€8M,Fifa Score,Osmanlıspor,€18K,18000,8000000
+Turkey,S. Özbayraklı,TR,27,AS,€6M,Fifa Score,Fenerbahçe SK,€51K,51000,6000000
+Turkey,V. Şen,TR,29,AS,€6.5M,Fifa Score,Trabzonspor,€31K,31000,6.5000000
+Turkey,H. Kaldırım,TR,27,AS,€5.5M,Fifa Score,Fenerbahçe SK,€51K,51000,5.5000000
+Turkey,O. Yokuşlu,TR,23,AS,€7.5M,Fifa Score,Trabzonspor,€23K,23000,7.5000000
+Turkey,H. Altıntop,TR,34,AS,€2M,Fifa Score,SV Darmstadt 98,€22K,22000,2000000
+Turkey,O. Şahiner,TR,25,AS,€8.5M,Fifa Score,Atiker Konyaspor,€18K,18000,8.5000000
+Turkey,S. İnan,TR,32,AS,€6M,Fifa Score,Galatasaray SK,€59K,59000,6000000
+Turkey,O. Tufan,TR,22,AS,€8.5M,Fifa Score,Fenerbahçe SK,€52K,52000,8.5000000
+Turkey,A. Sulu,TR,31,AS,€5M,Fifa Score,SV Darmstadt 98,€27K,27000,5000000
+Turkey,C. Erkin,TR,28,AS,€6M,Fifa Score,Beşiktaş JK,€49K,49000,6000000
+Turkey,V. Demirel,TR,35,AS,€1.8M,Fifa Score,Fenerbahçe SK,€32K,32000,1.8000000
+Turkey,M. Ekici,TR,27,AS,€9.5M,Fifa Score,Fenerbahçe SK,€66K,66000,9.5000000
+Turkey,O. Kıvrak,TR,29,AS,€6M,Fifa Score,Trabzonspor,€28K,28000,6000000
+Turkey,T. Arslan,TR,26,AS,€9.5M,Fifa Score,Beşiktaş JK,€52K,52000,9.5000000
+Turkey,A. Potuk,TR,26,AS,€11M,Fifa Score,Fenerbahçe SK,€66K,66000,11000000
+Turkey,C. Tosun,TR,26,AS,€12.5M,Fifa Score,Beşiktaş JK,€56K,56000,12.5000000
+Turkey,B. Yılmaz,TR,31,AS,€9.5M,Fifa Score,Trabzonspor,€38K,38000,9.5000000
+Turkey,E. Belözoğlu,TR,36,AS,€4M,Fifa Score,İstanbul Başakşehir FK,€26K,26000,4000000
+Turkey,N. Şahin,TR,28,AS,€10M,Fifa Score,Borussia Dortmund,€63K,63000,10000000
+Turkey,V. Babacan,TR,28,AS,€10M,Fifa Score,İstanbul Başakşehir FK,€28K,28000,10000000
+Turkey,Y. Mallı,TR,25,AS,€15.5M,Fifa Score,VfL Wolfsburg,€69K,69000,15.5000000
+Turkey,E. Çolak,TR,26,AS,€15.5M,Fifa Score,RC Deportivo de La Coruña,€32K,32000,15.5000000
+Turkey,H. Çalhanoğlu,TR,23,AS,€16.5M,Fifa Score,Milan,€92K,92000,16.5000000
+Turkey,M. Topal,TR,31,AS,€10M,Fifa Score,Fenerbahçe SK,€73K,73000,10000000
+Turkey,O. Özyakup,TR,24,AS,€19.5M,Fifa Score,Beşiktaş JK,€54K,54000,19.5000000
+Turkey,A. Turan,TR,30,AS,€20.5M,Fifa Score,FC Barcelona,€170K,170000,20.5000000
+Turkey,O. Toprak,TR,27,AS,€24.5M,Fifa Score,Borussia Dortmund,€66K,66000,24.5000000
+Turkmenistan,M. Kazankov,TM,30,AS,€350K,Fifa Score,FC SKA-Energiya Khabarovsk,€4K,4000,350000
+Uzbekistan,F. Musaev,UZ,28,AS,€200K,Fifa Score,Júbilo Iwata,€1K,1000,200000
+Uzbekistan,E. Shomurodov,UZ,22,AS,€600K,Fifa Score,FC Rostov,€6K,6000,600000
+Uzbekistan,V. Galiulin,UZ,29,AS,€750K,Fifa Score,FC Tosno,€14K,14000,750000
+Uzbekistan,V. Afonin,UZ,29,AS,€1.8M,Fifa Score,FC Anzhi Makhachkala,€15K,15000,1.8000000
+Uzbekistan,V. Denisov,UZ,30,AS,€10.5M,Fifa Score,Lokomotiv Moscow,€50K,50000,10.5000000
+Vietnam,Luong Xuan Truong,VN,22,AS,€350K,Fifa Score,Gangwon FC,€1K,1000,350000
