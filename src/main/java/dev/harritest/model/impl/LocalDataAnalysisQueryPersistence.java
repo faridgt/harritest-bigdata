@@ -23,35 +23,13 @@ public class LocalDataAnalysisQueryPersistence implements DataAnalysisQueryPersi
 				.getOrCreate();
 
 
-		List<String> cnts=Arrays.asList("AF",
-		  "AS",
-		  "EU",
-		  "NA",
-		  "SA",
-		  "OC",
-		  "AN");
 
+		
 
-		int counter=0;
-		Dataset<Row> maxds = null;
-		for (String c:cnts) {
-			  try {
-				  Dataset<Row> dataset2 = spark.read().option("header", true).csv(AppConf.LOCAL_DEST_INITIALIZE_PATH+c+".csv");
-					dataset2.createOrReplaceTempView("fifa"+c);
-					Dataset<Row> maxds2=spark.sql("select country_name,sum(salary_n) as total_value from fifa"+c+" group by country_name order by total_value desc limit 3 ");
-					
-					if(counter==0) {counter++; maxds=maxds2;continue;}
-					maxds=maxds.union(maxds2);
-					
-				  }catch(Exception e) {
-					  System.out.println("Empty collection :-> "+ c);
-				  }//
+		  Dataset<Row> dataset2 = spark.read().option("header", true).parquet(AppConf.LOCAL_DEST_PREPARE_ANALYSIS_PATH+"prepare_data_table.parquet");
+          dataset2.createOrReplaceTempView("fifa_prepare");
 
-		}
-
-		  maxds.createOrReplaceTempView("fifa_all");
-		  maxds.show();
-		  Dataset<Row> maxall=spark.sql("select country_name,total_value from fifa_all order by total_value desc limit 3 ");
+		  Dataset<Row> maxall=spark.sql("select country_name,sum(total_salary) as total_value  from fifa_prepare group by country_name order by total_value desc limit 3 ");
 		  maxall.show();
 		  maxall.write().option("header", true).mode(SaveMode.Overwrite).parquet(AppConf.LOCAL_DEST_ANALYSIS_PATH+"countries_h_income.parquet");
 	
@@ -60,63 +38,32 @@ public class LocalDataAnalysisQueryPersistence implements DataAnalysisQueryPersi
 		 */
 
 
-		 counter=0;
-		 maxds = null;
-		for (String c:cnts) {
-			  try {
-				  Dataset<Row> dataset2 = spark.read().option("header", true).csv(AppConf.LOCAL_DEST_INITIALIZE_PATH+c+".csv");
-					dataset2.createOrReplaceTempView("fifa2"+c);
-					Dataset<Row> maxds2=spark.sql("select Club,sum(salary_n) as total_value from fifa2"+c+" group by Club order by total_value desc limit 5 ");
+		  
+		  
+		
+		  Dataset<Row> maxds2=spark.sql("select Club,sum(total_salary) as total_value from fifa_prepare group by Club order by total_value desc limit 5 ");
 					
-					if(counter==0) {counter++; maxds=maxds2;continue;}
-					maxds=maxds.union(maxds2);
-					
-				  }catch(Exception e) {
-					  System.out.println("Empty collection :-> "+ c);
-				  }//
+					 
+		  maxds2.show();
 
-		}
-
-		  maxds.createOrReplaceTempView("fifa_all_clubs");
-		  maxds.show();
-		  maxall=spark.sql("select Club,total_value from fifa_all_clubs order by total_value desc limit 5 ");
-		  maxall.show();
-		  maxall.write().option("header", true).mode(SaveMode.Overwrite).parquet(AppConf.LOCAL_DEST_ANALYSIS_PATH+"club_h_valuable_players.parquet");
+		  maxds2.write().option("header", true).mode(SaveMode.Overwrite).parquet(AppConf.LOCAL_DEST_ANALYSIS_PATH+"club_h_valuable_players.parquet");
 
 		/**
 		 * //3. Which of Europe or America - on continent level - has the best FIFA players?Note: Elaborate More about how your query is optimized to answer the questions above. Feel
           	free to structure the table/s as you see is better for the performance.
 
 		 */
+		  //select continent, country_name, Club ,sum(value_n) as total_value ,sum(salary_n) as total_salary
+		  Dataset<Row> maxds3_1=spark.sql("select 'America' as continent,sum(total_value) as total_value from fifa_prepare where continent in ('SA','NA')");
+          maxds3_1.createOrReplaceTempView("p3_t1");
+          Dataset<Row> maxds3_2=spark.sql("select 'Europe' as continent,sum(total_value) as total_value from fifa_prepare where continent in ('EU')");
+          maxds3_2=maxds3_1.union(maxds3_2);
+          maxds3_2.createOrReplaceTempView("p3_t2");
+          Dataset<Row> maxds33=spark.sql("select continent, total_value from p3_t2 order by total_value desc limit 1");  
+          
+          maxds33.show();
 
-		 counter=0;
-		 maxds = null;
-		for (String c:cnts) {
-			  try {
-				  Dataset<Row> dataset2 = spark.read().option("header", true).csv(AppConf.LOCAL_DEST_INITIALIZE_PATH+c+".csv");
-					dataset2.createOrReplaceTempView("fifa3"+c);
-					Dataset<Row> maxds2=spark.sql("select continent,sum(value_n) as total_value from fifa3"+c+" group by continent  ");
-					
-					if(counter==0) {counter++; maxds=maxds2;continue;}
-					maxds=maxds.union(maxds2);
-					
-				  }catch(Exception e) {
-					  System.out.println("Empty collection :-> "+ c);
-				  }//
-
-		}
-
-		  maxds.createOrReplaceTempView("fifa_all_continent");
-		  maxds.show();
-		  Dataset<Row> maxall_1=spark.sql("select continent,total_value from fifa_all_continent where continent ='EU' order by total_value desc limit 1 ");
-		  Dataset<Row> maxall_2=spark.sql("select continent,sum(total_value) as total_value from fifa_all_continent where continent !='EU' group by continent  limit 1 ");
-		  Dataset<Row> maxall_final=maxall_1.union(maxall_2);
-		  
-		  maxall_final.createOrReplaceTempView("fifa_all_continent_final");
-		  maxall_final=spark.sql("select continent, total_value from fifa_all_continent_final order by total_value desc limit 1 ");
-		  
-		  maxall_final.show();
-		  maxall.write().option("header", true).mode(SaveMode.Overwrite).parquet(AppConf.LOCAL_DEST_ANALYSIS_PATH+"/europe_or_America_best_players.parquet");
+          maxds33.write().option("header", true).mode(SaveMode.Overwrite).parquet(AppConf.LOCAL_DEST_ANALYSIS_PATH+"/europe_or_America_best_players.parquet");
 	
 		
 	

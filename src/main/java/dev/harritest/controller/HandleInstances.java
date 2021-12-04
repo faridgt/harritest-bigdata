@@ -1,9 +1,11 @@
 package dev.harritest.controller;
 
 import dev.harritest.model.AppConf;
+import dev.harritest.model.impl.CloudDataAnalysisPrepareTable;
 import dev.harritest.model.impl.CloudDataAnalysisQueryPersistence;
 import dev.harritest.model.impl.CloudDataHandlerInitializer;
 import dev.harritest.model.impl.DefaultContinentJSONSourceImpl;
+import dev.harritest.model.impl.LocalDataAnalysisPrepareTable;
 import dev.harritest.model.impl.LocalDataAnalysisQueryPersistence;
 import dev.harritest.model.impl.LocalDataHandlerInitializer;
 import dev.harritest.model.impl.merge.CloudHudiDataMergeHandler;
@@ -16,6 +18,7 @@ public class HandleInstances {
 	private static DataHandlerInitializer dataHandlerInitializer;
 	private static DataAnalysisQueryPersistence dataAnalysisQueryPersistence;
 	private static DataMergeHandler dataMergeHandler;
+	private static DataAnalysisPrepareTable dataAnalysisPrepareTable;
 
 	
 public static ContinentJSONSource getOrCreateContinentJSONSourceInstance() {
@@ -72,6 +75,18 @@ public static DataMergeHandler getDataMergeHandlerInstance() {
 
 }
 
+
+public static DataAnalysisPrepareTable getCloudDataAnalysisPrepareTableInstance() {
+	
+	if(dataAnalysisPrepareTable!=null) return dataAnalysisPrepareTable;
+	if(AppConf.RUN_LOCAL)
+		dataAnalysisPrepareTable=new LocalDataAnalysisPrepareTable(); 
+	else
+		dataAnalysisPrepareTable=new CloudDataAnalysisPrepareTable(); 
+	
+	return dataAnalysisPrepareTable;
+
+}
 
 
 }

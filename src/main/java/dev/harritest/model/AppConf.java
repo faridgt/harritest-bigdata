@@ -20,6 +20,8 @@ public class AppConf {
 	public static final String CLOUD_DEST_INITIALIZE_PATH="s3://harri-test-bigdata/";
 	public static final String LOCAL_DEST_ANALYSIS_PATH="src/main/resources/harri/hadoop-part3/";
 	public static final String CLOUD_DEST_ANALYSIS_PATH="s3://harri-test-bigdata/hadoop-part3/";
+	public static final String LOCAL_DEST_PREPARE_ANALYSIS_PATH="src/main/resources/harri/hadoop-part3/";
+	public static final String CLOUD_DEST_PREPARE_ANALYSIS_PATH="s3://harri-test-bigdata/hadoop-part3/";
 	
 	public static final String CLOUD_MERGE_PATH="s3://harri-test-bigdata/all-merge/";
 	public static final String LOCAL_MERGE_PATH="file:///./src/main/resources/harri/all-merge/";
